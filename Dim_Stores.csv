@@ -1,0 +1,60 @@
+StoreID,StoreName,Region,City,StoreType,SquareMeters,OpeningDate,Status,ManagerName
+SRG-001,SRG Riyadh Online 61,Riyadh,Riyadh,Online,250,2022-11-07,Active,Khalid Al-Otaibi
+SRG-002,SRG Riyadh Express 97,Riyadh,Riyadh,Express,350,2024-06-03,Closed,Fahad Al-Dosari
+SRG-003,SRG Riyadh Supermarket 61,Riyadh,Riyadh,Supermarket,600,2017-01-02,Active,Yasser Al-Otaibi
+SRG-004,SRG Diriyah Online 50,Riyadh,Diriyah,Online,350,2024-04-23,Renovation,Faisal Al-Mutairi
+SRG-005,SRG Diriyah Supermarket 29,Riyadh,Diriyah,Supermarket,600,2015-02-25,Active,Khalid Al-Ghamdi
+SRG-006,SRG Diriyah Online 59,Riyadh,Diriyah,Online,150,2023-04-28,Active,Khalid Al-Shehri
+SRG-007,SRG Diriyah Express 71,Riyadh,Diriyah,Express,250,2024-12-17,Active,Faisal Al-Qahtani
+SRG-008,SRG Kharj Online 67,Riyadh,Kharj,Online,250,2018-11-09,Closed,Faisal Al-Harbi
+SRG-009,SRG Kharj Express 35,Riyadh,Kharj,Express,250,2016-12-10,Active,Abdullah Al-Shammari
+SRG-010,SRG Kharj Hypermarket 20,Riyadh,Kharj,Hypermarket,1200,2017-04-13,Renovation,Fahad Al-Otaibi
+SRG-011,SRG Kharj Online 8,Riyadh,Kharj,Online,250,2020-09-15,Active,Fahad Al-Mutairi
+SRG-012,SRG Makkah Hypermarket 46,Makkah,Makkah,Hypermarket,12000,2024-07-16,Active,Saad Al-Mutairi
+SRG-013,SRG Makkah Online 29,Makkah,Makkah,Online,350,2023-10-08,Active,Saad Al-Mutairi
+SRG-014,SRG Makkah Online 52,Makkah,Makkah,Online,150,2021-06-22,Renovation,Khalid Al-Shehri
+SRG-015,SRG Makkah Supermarket 4,Makkah,Makkah,Supermarket,400,2021-10-19,Renovation,Mohammed Al-Mutairi
+SRG-016,SRG Jeddah Online 28,Makkah,Jeddah,Online,150,2015-05-13,Active,Faisal Al-Shammari
+SRG-017,SRG Jeddah Express 11,Makkah,Jeddah,Express,250,2019-07-09,Closed,Faisal Al-Rashid
+SRG-018,SRG Taif Express 4,Makkah,Taif,Express,150,2016-11-02,Closed,Fahad Al-Harbi
+SRG-019,SRG Madinah Supermarket 73,Madinah,Madinah,Supermarket,600,2017-08-22,Active,Fahad Al-Shehri
+SRG-020,SRG Yanbu Express 15,Madinah,Yanbu,Express,150,2024-10-24,Renovation,Khalid Al-Dosari
+SRG-021,SRG Yanbu Hypermarket 49,Madinah,Yanbu,Hypermarket,5000,2015-05-19,Renovation,Nasser Al-Harbi
+SRG-022,SRG Yanbu Hypermarket 39,Madinah,Yanbu,Hypermarket,5000,2018-02-23,Closed,Yasser Al-Otaibi
+SRG-023,SRG Dammam Express 65,Eastern,Dammam,Express,350,2021-11-12,Active,Abdullah Al-Rashid
+SRG-024,SRG Khobar Online 59,Eastern,Khobar,Online,150,2021-06-21,Closed,Khalid Al-Mutairi
+SRG-025,SRG Khobar Supermarket 60,Eastern,Khobar,Supermarket,900,2024-09-25,Active,Nasser Al-Anazi
+SRG-026,SRG Khobar Express 32,Eastern,Khobar,Express,250,2018-02-09,Active,Faisal Al-Anazi
+SRG-027,SRG Khobar Online 24,Eastern,Khobar,Online,250,2015-08-28,Active,Faisal Al-Harbi
+SRG-028,SRG Jubail Express 72,Eastern,Jubail,Express,250,2019-10-23,Active,Ahmed Al-Ghamdi
+SRG-029,SRG Jubail Supermarket 72,Eastern,Jubail,Supermarket,400,2018-12-14,Active,Fahad Al-Shehri
+SRG-030,SRG Jubail Online 52,Eastern,Jubail,Online,250,2015-02-10,Active,Fahad Al-Dosari
+SRG-031,SRG Hofuf Online 71,Eastern,Hofuf,Online,350,2023-06-14,Renovation,Abdullah Al-Shammari
+SRG-032,SRG Hofuf Online 93,Eastern,Hofuf,Online,250,2019-05-08,Active,Fahad Al-Shammari
+SRG-033,SRG Hofuf Hypermarket 28,Eastern,Hofuf,Hypermarket,8000,2023-12-06,Active,Faisal Al-Dosari
+SRG-034,SRG Qatif Hypermarket 23,Eastern,Qatif,Hypermarket,12000,2018-05-08,Active,Saad Al-Rashid
+SRG-035,SRG Qatif Supermarket 90,Eastern,Qatif,Supermarket,900,2015-01-18,Active,Khalid Al-Shehri
+SRG-036,SRG Qatif Hypermarket 62,Eastern,Qatif,Hypermarket,12000,2015-10-10,Active,Faisal Al-Shammari
+SRG-037,SRG Abha Hypermarket 52,Asir,Abha,Hypermarket,2000,2022-02-27,Active,Faisal Al-Otaibi
+SRG-038,SRG Abha Hypermarket 32,Asir,Abha,Hypermarket,1200,2017-10-10,Active,Mohammed Al-Ghamdi
+SRG-039,SRG Khamis Mushait Supermarket 76,Asir,Khamis Mushait,Supermarket,1200,2022-08-10,Closed,Nasser Al-Dosari
+SRG-040,SRG Khamis Mushait Hypermarket 34,Asir,Khamis Mushait,Hypermarket,5000,2016-04-21,Active,Mohammed Al-Qahtani
+SRG-041,SRG Khamis Mushait Supermarket 53,Asir,Khamis Mushait,Supermarket,600,2023-02-06,Active,Faisal Al-Anazi
+SRG-042,SRG Khamis Mushait Online 37,Asir,Khamis Mushait,Online,250,2015-04-10,Renovation,Faisal Al-Otaibi
+SRG-043,SRG Tabuk Express 55,Tabuk,Tabuk,Express,350,2024-11-26,Active,Mohammed Al-Ghamdi
+SRG-044,SRG Tabuk Supermarket 22,Tabuk,Tabuk,Supermarket,600,2019-03-03,Active,Saad Al-Anazi
+SRG-045,SRG Hail Online 52,Hail,Hail,Online,150,2022-12-10,Renovation,Saad Al-Ghamdi
+SRG-046,SRG Hail Online 95,Hail,Hail,Online,250,2016-10-02,Active,Abdullah Al-Anazi
+SRG-047,SRG Hail Express 74,Hail,Hail,Express,150,2016-04-22,Closed,Yasser Al-Rashid
+SRG-048,SRG Buraidah Hypermarket 57,Qassim,Buraidah,Hypermarket,12000,2017-08-17,Renovation,Saad Al-Qahtani
+SRG-049,SRG Buraidah Online 53,Qassim,Buraidah,Online,350,2022-02-16,Active,Abdullah Al-Shammari
+SRG-050,SRG Buraidah Hypermarket 64,Qassim,Buraidah,Hypermarket,12000,2017-06-14,Renovation,Saad Al-Mutairi
+SRG-051,SRG Unaizah Online 99,Qassim,Unaizah,Online,150,2020-05-11,Active,Nasser Al-Ghamdi
+SRG-052,SRG Arar Online 80,Northern Borders,Arar,Online,250,2015-04-17,Active,Faisal Al-Shehri
+SRG-053,SRG Jazan Supermarket 90,Jazan,Jazan,Supermarket,900,2023-03-10,Active,Faisal Al-Otaibi
+SRG-054,SRG Najran Supermarket 53,Najran,Najran,Supermarket,600,2019-09-01,Active,Mohammed Al-Harbi
+SRG-055,SRG Al Baha Online 66,Al Baha,Al Baha,Online,150,2017-08-23,Active,Saad Al-Mutairi
+SRG-056,SRG Sakaka Online 25,Al Jawf,Sakaka,Online,150,2022-09-05,Active,Yasser Al-Ghamdi
+SRG-057,SRG Sakaka Supermarket 65,Al Jawf,Sakaka,Supermarket,400,2019-07-11,Closed,Saad Al-Rashid
+SRG-058,SRG Sakaka Express 63,Al Jawf,Sakaka,Express,350,2019-10-19,Renovation,Khalid Al-Shehri
+SRG-059,SRG Sakaka Online 49,Al Jawf,Sakaka,Online,250,2020-09-25,Active,Faisal Al-Shammari

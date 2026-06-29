@@ -1,0 +1,1094 @@
+ProductID,ProductName,Category,SubCategory,Brand,UnitOfMeasure,UnitPrice,CostPrice,SupplierID,LaunchDate,IsActive
+PRD-00001,Danone Soft Drinks Value 897g,Beverages,Soft Drinks,Danone,Liter,41.89,31.87,SUP-037,2025-07-28,1
+PRD-00002,Mazola Soft Drinks Value 511g,Beverages,Soft Drinks,Mazola,KG,51.3,36.73,SUP-041,2021-10-06,1
+PRD-00003,Pringles Soft Drinks Natural 479g,Beverages,Soft Drinks,Pringles,Can,145.14,112.91,SUP-018,2022-05-29,1
+PRD-00004,Staedtler Soft Drinks Gold 491g,Beverages,Soft Drinks,Staedtler,Pack,109.9,71.34,SUP-018,2019-06-03,1
+PRD-00005,Pepsi Soft Drinks Organic 122g,Beverages,Soft Drinks,Pepsi,Each,53.13,36.22,SUP-040,2021-06-08,0
+PRD-00006,Lusine Soft Drinks Family 878g,Beverages,Soft Drinks,Lusine,Liter,122.68,84.29,SUP-021,2022-03-01,0
+PRD-00007,Unilever Soft Drinks Value 286g,Beverages,Soft Drinks,Unilever,Pack,61.07,45.58,SUP-016,2018-02-25,1
+PRD-00008,Anker Soft Drinks Family 345g,Beverages,Soft Drinks,Anker,Gram,147.17,107.24,SUP-038,2019-05-02,1
+PRD-00009,Pepsi Soft Drinks Small 153g,Beverages,Soft Drinks,Pepsi,KG,59.26,41.46,SUP-038,2020-03-11,1
+PRD-00010,Colgate Soft Drinks Natural 936g,Beverages,Soft Drinks,Colgate,Pack,134.85,83.5,SUP-021,2021-06-19,1
+PRD-00011,Hyper Panda Soft Drinks Value 680g,Beverages,Soft Drinks,Hyper Panda,Liter,121.92,73.23,SUP-050,2023-02-19,1
+PRD-00012,KDD Soft Drinks Premium 130g,Beverages,Soft Drinks,KDD,Pack,144.25,95.78,SUP-034,2021-12-30,1
+PRD-00013,Aquafina Soft Drinks Classic 477g,Beverages,Soft Drinks,Aquafina,Can,139.96,79.95,SUP-036,2021-02-24,1
+PRD-00014,Dasani Soft Drinks Small 856g,Beverages,Soft Drinks,Dasani,Box,33.34,21.66,SUP-033,2023-03-02,1
+PRD-00015,Cadbury Soft Drinks Value 149g,Beverages,Soft Drinks,Cadbury,Pack,127.01,84.38,SUP-042,2019-11-02,1
+PRD-00016,Carrefour Soft Drinks Organic 996g,Beverages,Soft Drinks,Carrefour,Box,80.53,48.41,SUP-029,2023-03-11,1
+PRD-00017,Al Ain Soft Drinks Natural 798g,Beverages,Soft Drinks,Al Ain,Gram,87.65,56.41,SUP-013,2023-04-02,1
+PRD-00018,Al Foah Soft Drinks Premium 761g,Beverages,Soft Drinks,Al Foah,Each,43.6,33.26,SUP-041,2022-01-02,1
+PRD-00019,Huggies Soft Drinks Gold 164g,Beverages,Soft Drinks,Huggies,Each,67.3,51.37,SUP-024,2021-08-26,0
+PRD-00020,Al Safi Juices Family 595g,Beverages,Juices,Al Safi,Box,6.23,4.47,SUP-005,2021-06-20,1
+PRD-00021,Oreo Juices Large 222g,Beverages,Juices,Oreo,Liter,70.81,39.38,SUP-020,2020-07-17,0
+PRD-00022,Carrefour Juices Large 881g,Beverages,Juices,Carrefour,Liter,119.28,80.12,SUP-041,2018-12-22,1
+PRD-00023,Dasani Juices Large 224g,Beverages,Juices,Dasani,Bottle,136.49,86.94,SUP-023,2021-12-08,1
+PRD-00024,Al Osra Juices Family 838g,Beverages,Juices,Al Osra,Each,116.9,80.45,SUP-012,2024-06-15,1
+PRD-00025,Colgate Juices Family 836g,Beverages,Juices,Colgate,Gram,38.8,29.96,SUP-023,2025-05-24,1
+PRD-00026,Faber-Castell Juices Family 254g,Beverages,Juices,Faber-Castell,Can,37.11,22.35,SUP-040,2020-02-18,0
+PRD-00027,Local Farm Juices Premium 394g,Beverages,Juices,Local Farm,Gram,92.17,68.77,SUP-045,2020-06-28,1
+PRD-00028,Monster Juices Natural 537g,Beverages,Juices,Monster,Pack,21.56,14.37,SUP-003,2023-04-08,1
+PRD-00029,Faber-Castell Water Value 146g,Beverages,Water,Faber-Castell,Box,9.72,6.22,SUP-032,2019-05-10,0
+PRD-00030,Pampers Water Large 490g,Beverages,Water,Pampers,Each,25.86,14.81,SUP-032,2019-05-26,1
+PRD-00031,P&G Water Gold 327g,Beverages,Water,P&G,Box,17.22,12.27,SUP-032,2025-06-21,1
+PRD-00032,Staedtler Water Small 646g,Beverages,Water,Staedtler,KG,106.85,77.92,SUP-031,2020-03-31,1
+PRD-00033,Kellogg's Water Family 248g,Beverages,Water,Kellogg's,Bottle,113.68,88.14,SUP-014,2019-09-18,1
+PRD-00034,3M Water Gold 117g,Beverages,Water,3M,Pack,26.3,19.03,SUP-019,2020-11-05,1
+PRD-00035,Doritos Water 257g,Beverages,Water,Doritos,Box,85.13,50.32,SUP-023,2022-07-17,1
+PRD-00036,Unilever Water 445g,Beverages,Water,Unilever,Bottle,29.5,18.75,SUP-004,2022-05-15,1
+PRD-00037,Samsung Water Value 985g,Beverages,Water,Samsung,Bottle,134.82,76.22,SUP-042,2019-04-15,0
+PRD-00038,Nadec Water Value 382g,Beverages,Water,Nadec,Pack,42.55,31.5,SUP-001,2023-06-12,1
+PRD-00039,Apple Coffee & Tea Small 890g,Beverages,Coffee & Tea,Apple,Pack,84.94,59.48,SUP-021,2019-09-01,1
+PRD-00040,Logitech Coffee & Tea Large 893g,Beverages,Coffee & Tea,Logitech,Liter,99.85,58.93,SUP-043,2018-08-23,0
+PRD-00041,Colgate Coffee & Tea Natural 334g,Beverages,Coffee & Tea,Colgate,Can,44.81,31.42,SUP-025,2018-09-17,1
+PRD-00042,Danone Coffee & Tea Value 146g,Beverages,Coffee & Tea,Danone,Gram,43.34,27.01,SUP-037,2018-10-25,1
+PRD-00043,Staedtler Coffee & Tea Classic 477g,Beverages,Coffee & Tea,Staedtler,Pack,94.87,61.52,SUP-047,2021-01-01,1
+PRD-00044,Al Karamah Coffee & Tea Organic 437g,Beverages,Coffee & Tea,Al Karamah,Liter,86.02,52.68,SUP-037,2025-07-09,1
+PRD-00045,Al Watania Coffee & Tea 316g,Beverages,Coffee & Tea,Al Watania,Gram,108.83,71.14,SUP-032,2022-01-05,1
+PRD-00046,Nadec Coffee & Tea Premium 930g,Beverages,Coffee & Tea,Nadec,Box,72.88,40.39,SUP-011,2022-11-16,1
+PRD-00047,Al Muhaidib Coffee & Tea 987g,Beverages,Coffee & Tea,Al Muhaidib,Can,4.7,2.69,SUP-047,2025-06-03,1
+PRD-00048,Aquafina Coffee & Tea Large 685g,Beverages,Coffee & Tea,Aquafina,Bottle,47.85,34.59,SUP-028,2024-12-15,1
+PRD-00049,Quaker Coffee & Tea Value 515g,Beverages,Coffee & Tea,Quaker,Each,80.97,55.08,SUP-034,2023-04-28,1
+PRD-00050,Al Karamah Coffee & Tea Value 595g,Beverages,Coffee & Tea,Al Karamah,Bottle,26.83,15.25,SUP-039,2020-01-30,1
+PRD-00051,Kellogg's Coffee & Tea Premium 571g,Beverages,Coffee & Tea,Kellogg's,Gram,98.68,70.06,SUP-034,2023-12-31,0
+PRD-00052,Al Ghurair Coffee & Tea Natural 460g,Beverages,Coffee & Tea,Al Ghurair,Bottle,98.19,72.99,SUP-014,2025-01-28,0
+PRD-00053,Pilot Coffee & Tea Small 307g,Beverages,Coffee & Tea,Pilot,Pack,137.59,94.74,SUP-041,2022-04-15,1
+PRD-00054,Coca Cola Energy Drinks Gold 788g,Beverages,Energy Drinks,Coca Cola,Gram,7.05,4.17,SUP-008,2019-08-16,1
+PRD-00055,Dasani Energy Drinks Classic 460g,Beverages,Energy Drinks,Dasani,Each,20.36,14.83,SUP-032,2022-03-29,1
+PRD-00056,Kit Kat Energy Drinks Value 918g,Beverages,Energy Drinks,Kit Kat,KG,85.55,56.5,SUP-046,2018-07-24,1
+PRD-00057,Al Ain Energy Drinks Gold 575g,Beverages,Energy Drinks,Al Ain,Liter,64.58,40.07,SUP-035,2025-06-18,1
+PRD-00058,Mazola Energy Drinks 558g,Beverages,Energy Drinks,Mazola,Can,61.63,46.98,SUP-006,2022-09-16,1
+PRD-00059,Unilever Energy Drinks Natural 807g,Beverages,Energy Drinks,Unilever,Each,133.85,81.53,SUP-022,2018-05-16,1
+PRD-00060,Johnson & Johnson Energy Drinks Organic 815g,Beverages,Energy Drinks,Johnson & Johnson,Bottle,38.53,25.36,SUP-003,2024-08-08,1
+PRD-00061,Cadbury Energy Drinks 290g,Beverages,Energy Drinks,Cadbury,Can,85.84,55.93,SUP-008,2025-02-13,0
+PRD-00062,Binzagr Energy Drinks 812g,Beverages,Energy Drinks,Binzagr,Liter,55.32,33.26,SUP-014,2018-07-22,1
+PRD-00063,Tyson Energy Drinks Premium 283g,Beverages,Energy Drinks,Tyson,Gram,71.23,44.91,SUP-011,2023-12-07,1
+PRD-00064,Quaker Energy Drinks Large 536g,Beverages,Energy Drinks,Quaker,KG,63.5,38.35,SUP-006,2021-07-10,0
+PRD-00065,Kit Kat Energy Drinks 970g,Beverages,Energy Drinks,Kit Kat,Gram,137.63,95.06,SUP-023,2021-02-27,1
+PRD-00066,Al Muhaidib Energy Drinks Small 438g,Beverages,Energy Drinks,Al Muhaidib,KG,66.61,50.04,SUP-019,2020-06-25,1
+PRD-00067,Hyper Panda Energy Drinks Classic 910g,Beverages,Energy Drinks,Hyper Panda,KG,40.47,27.95,SUP-026,2024-05-21,0
+PRD-00068,Tyson Energy Drinks 348g,Beverages,Energy Drinks,Tyson,KG,38.58,23.67,SUP-029,2021-03-13,1
+PRD-00069,Al Watania Energy Drinks Natural 370g,Beverages,Energy Drinks,Al Watania,Each,132.44,88.86,SUP-044,2025-05-16,0
+PRD-00070,Dasani Energy Drinks Premium 707g,Beverages,Energy Drinks,Dasani,Gram,24.05,16,SUP-009,2024-10-15,1
+PRD-00071,Al Watania Milk Gold 757g,Dairy & Eggs,Milk,Al Watania,KG,101.18,57.97,SUP-011,2019-03-01,1
+PRD-00072,Pilot Milk Value 232g,Dairy & Eggs,Milk,Pilot,Each,114.64,81.28,SUP-008,2023-05-15,1
+PRD-00073,Al Ghurair Milk Gold 456g,Dairy & Eggs,Milk,Al Ghurair,Bottle,50.71,31.24,SUP-046,2022-08-18,1
+PRD-00074,Lay's Milk 235g,Dairy & Eggs,Milk,Lay's,Box,72.21,40.33,SUP-001,2018-06-25,1
+PRD-00075,Cadbury Milk Small 490g,Dairy & Eggs,Milk,Cadbury,Pack,86.09,50.29,SUP-040,2020-07-04,0
+PRD-00076,Nadec Milk Family 854g,Dairy & Eggs,Milk,Nadec,Gram,123.89,71.18,SUP-050,2019-04-16,1
+PRD-00077,Danone Milk Organic 979g,Dairy & Eggs,Milk,Danone,Liter,129.91,97.28,SUP-034,2024-09-02,1
+PRD-00078,Coca Cola Milk Organic 743g,Dairy & Eggs,Milk,Coca Cola,Can,51.29,39.58,SUP-036,2022-10-29,1
+PRD-00079,Staedtler Milk Large 170g,Dairy & Eggs,Milk,Staedtler,KG,87.12,62.06,SUP-036,2021-05-07,1
+PRD-00080,Lipton Milk Natural 497g,Dairy & Eggs,Milk,Lipton,Bottle,105.13,59.87,SUP-015,2024-01-30,0
+PRD-00081,Pringles Milk Large 403g,Dairy & Eggs,Milk,Pringles,Box,9.59,5.69,SUP-027,2019-10-08,1
+PRD-00082,Al Safi Milk Large 417g,Dairy & Eggs,Milk,Al Safi,Can,129.05,79.67,SUP-017,2022-07-24,1
+PRD-00083,Binzagr Milk Small 337g,Dairy & Eggs,Milk,Binzagr,Can,18.4,13.14,SUP-027,2023-08-29,1
+PRD-00084,Colgate Milk Premium 133g,Dairy & Eggs,Milk,Colgate,Gram,123.68,88.24,SUP-010,2024-05-19,1
+PRD-00085,Alpro Cheese Premium 256g,Dairy & Eggs,Cheese,Alpro,Pack,88.43,61.79,SUP-032,2022-11-30,1
+PRD-00086,Al Karamah Cheese Large 138g,Dairy & Eggs,Cheese,Al Karamah,KG,71.21,42.57,SUP-021,2018-08-28,1
+PRD-00087,Monster Cheese Organic 148g,Dairy & Eggs,Cheese,Monster,Box,81.64,47.94,SUP-036,2024-11-01,1
+PRD-00088,Nestle Cheese Family 559g,Dairy & Eggs,Cheese,Nestle,Gram,60.15,43.18,SUP-049,2019-10-16,1
+PRD-00089,Coca Cola Cheese Family 738g,Dairy & Eggs,Cheese,Coca Cola,Bottle,22.19,12.25,SUP-002,2019-07-05,1
+PRD-00090,P&G Cheese Classic 320g,Dairy & Eggs,Cheese,P&G,Bottle,87.11,65.5,SUP-015,2018-03-31,1
+PRD-00091,Coca Cola Cheese Value 551g,Dairy & Eggs,Cheese,Coca Cola,Pack,39.91,28.69,SUP-008,2025-07-08,1
+PRD-00092,Colgate Cheese Premium 548g,Dairy & Eggs,Cheese,Colgate,Liter,69.8,40.67,SUP-031,2024-11-02,0
+PRD-00093,Doritos Cheese Organic 355g,Dairy & Eggs,Cheese,Doritos,Each,113.26,66.81,SUP-042,2022-02-25,1
+PRD-00094,Nadec Cheese Family 336g,Dairy & Eggs,Cheese,Nadec,KG,14.04,10.36,SUP-011,2020-08-20,1
+PRD-00095,Red Bull Cheese Family 147g,Dairy & Eggs,Cheese,Red Bull,Box,42.45,28.62,SUP-030,2018-10-06,0
+PRD-00096,Pampers Cheese Premium 193g,Dairy & Eggs,Cheese,Pampers,Can,111.86,79.99,SUP-011,2025-06-04,1
+PRD-00097,Kit Kat Cheese Organic 159g,Dairy & Eggs,Cheese,Kit Kat,Can,10.19,7.51,SUP-047,2022-08-22,1
+PRD-00098,Al Muhaidib Cheese Value 847g,Dairy & Eggs,Cheese,Al Muhaidib,Pack,132.76,98.41,SUP-031,2025-03-15,1
+PRD-00099,Oreo Cheese Natural 208g,Dairy & Eggs,Cheese,Oreo,Box,124.16,94.72,SUP-004,2022-05-02,1
+PRD-00100,Al Faisaliah Cheese Gold 993g,Dairy & Eggs,Cheese,Al Faisaliah,Can,82.39,48.23,SUP-044,2023-04-06,1
+PRD-00101,Lay's Cheese Classic 284g,Dairy & Eggs,Cheese,Lay's,Box,77.1,48.02,SUP-003,2024-07-23,1
+PRD-00102,Unilever Cheese Gold 388g,Dairy & Eggs,Cheese,Unilever,KG,60.64,46.11,SUP-047,2019-08-27,1
+PRD-00103,Mazola Cheese Large 562g,Dairy & Eggs,Cheese,Mazola,Pack,39.24,28.75,SUP-007,2019-06-17,1
+PRD-00104,Lusine Cheese Classic 643g,Dairy & Eggs,Cheese,Lusine,Can,146.95,113.47,SUP-003,2020-08-23,1
+PRD-00105,Johnson & Johnson Yogurt 151g,Dairy & Eggs,Yogurt,Johnson & Johnson,Pack,121.58,79.58,SUP-004,2023-06-09,1
+PRD-00106,Carrefour Yogurt Large 712g,Dairy & Eggs,Yogurt,Carrefour,Box,7.82,4.94,SUP-038,2024-12-12,0
+PRD-00107,Lipton Yogurt Family 712g,Dairy & Eggs,Yogurt,Lipton,Gram,104.93,75.46,SUP-049,2019-03-25,1
+PRD-00108,KDD Yogurt Family 604g,Dairy & Eggs,Yogurt,KDD,Liter,27.97,20.2,SUP-016,2020-06-21,0
+PRD-00109,Quaker Yogurt Premium 469g,Dairy & Eggs,Yogurt,Quaker,KG,29.31,17.13,SUP-008,2022-03-19,1
+PRD-00110,Unilever Yogurt Small 705g,Dairy & Eggs,Yogurt,Unilever,Liter,102.67,76.54,SUP-013,2020-03-10,1
+PRD-00111,Carrefour Yogurt Large 307g,Dairy & Eggs,Yogurt,Carrefour,KG,82.09,50.71,SUP-029,2018-03-17,1
+PRD-00112,Al Jazira Yogurt Value 620g,Dairy & Eggs,Yogurt,Al Jazira,Gram,126.49,69.91,SUP-030,2018-03-27,1
+PRD-00113,Almarai Yogurt 799g,Dairy & Eggs,Yogurt,Almarai,Liter,129.38,93.95,SUP-044,2021-12-01,1
+PRD-00114,Al Rajhi Yogurt Organic 294g,Dairy & Eggs,Yogurt,Al Rajhi,Can,115.5,76.72,SUP-040,2020-01-15,1
+PRD-00115,Nestle Yogurt Large 263g,Dairy & Eggs,Yogurt,Nestle,Gram,96.11,62.01,SUP-018,2020-01-28,1
+PRD-00116,Faber-Castell Yogurt Organic 913g,Dairy & Eggs,Yogurt,Faber-Castell,Box,75.96,44.57,SUP-023,2024-05-12,1
+PRD-00117,Saudi Dairy Yogurt Natural 457g,Dairy & Eggs,Yogurt,Saudi Dairy,Pack,64.21,37.41,SUP-039,2019-07-03,1
+PRD-00118,Binzagr Yogurt Family 254g,Dairy & Eggs,Yogurt,Binzagr,KG,56.91,32.83,SUP-021,2022-08-09,1
+PRD-00119,Al Safi Yogurt Organic 423g,Dairy & Eggs,Yogurt,Al Safi,Liter,24.87,15.01,SUP-016,2023-03-13,1
+PRD-00120,Binzagr Yogurt 840g,Dairy & Eggs,Yogurt,Binzagr,KG,62.77,44.11,SUP-012,2018-06-25,1
+PRD-00121,Unilever Yogurt Small 738g,Dairy & Eggs,Yogurt,Unilever,Each,13.71,9.58,SUP-036,2021-10-23,1
+PRD-00122,Coca Cola Yogurt Classic 328g,Dairy & Eggs,Yogurt,Coca Cola,Each,32.7,18.31,SUP-037,2023-12-30,1
+PRD-00123,Hyper Panda Yogurt Classic 938g,Dairy & Eggs,Yogurt,Hyper Panda,Pack,128.69,76.01,SUP-010,2019-01-22,1
+PRD-00124,Colgate Yogurt Small 623g,Dairy & Eggs,Yogurt,Colgate,Pack,13.75,9.81,SUP-035,2019-09-22,1
+PRD-00125,Al Rifai Yogurt Value 511g,Dairy & Eggs,Yogurt,Al Rifai,KG,64.03,48.38,SUP-007,2024-07-15,1
+PRD-00126,Al Osra Yogurt Gold 650g,Dairy & Eggs,Yogurt,Al Osra,Each,50.69,32.42,SUP-020,2019-07-02,1
+PRD-00127,Al Safi Yogurt Family 683g,Dairy & Eggs,Yogurt,Al Safi,Can,119.71,78.02,SUP-034,2023-05-22,1
+PRD-00128,Samsung Yogurt Organic 894g,Dairy & Eggs,Yogurt,Samsung,Liter,48.77,33.98,SUP-019,2022-06-24,1
+PRD-00129,Dettol Yogurt 545g,Dairy & Eggs,Yogurt,Dettol,Box,112.44,67.47,SUP-043,2020-01-09,1
+PRD-00130,Hyper Panda Butter & Cream Family 283g,Dairy & Eggs,Butter & Cream,Hyper Panda,Pack,139.7,83.05,SUP-002,2021-06-05,1
+PRD-00131,Al Safi Butter & Cream 359g,Dairy & Eggs,Butter & Cream,Al Safi,Bottle,44.44,32.58,SUP-008,2021-02-26,1
+PRD-00132,3M Butter & Cream 891g,Dairy & Eggs,Butter & Cream,3M,Pack,77.88,44.45,SUP-040,2023-01-03,1
+PRD-00133,Huggies Butter & Cream 724g,Dairy & Eggs,Butter & Cream,Huggies,KG,114.65,78.23,SUP-034,2019-01-31,1
+PRD-00134,Al Jazira Butter & Cream Classic 853g,Dairy & Eggs,Butter & Cream,Al Jazira,Each,105.5,59.41,SUP-028,2022-09-26,1
+PRD-00135,Saudi Dairy Butter & Cream Family 823g,Dairy & Eggs,Butter & Cream,Saudi Dairy,Each,111.28,62.8,SUP-023,2020-03-16,1
+PRD-00136,Al Rifai Butter & Cream Gold 505g,Dairy & Eggs,Butter & Cream,Al Rifai,Bottle,52.16,39.16,SUP-001,2021-08-10,1
+PRD-00137,Oreo Butter & Cream Small 350g,Dairy & Eggs,Butter & Cream,Oreo,Bottle,121.92,82.47,SUP-001,2021-12-26,0
+PRD-00138,Carrefour Butter & Cream Natural 962g,Dairy & Eggs,Butter & Cream,Carrefour,Box,26.37,18.51,SUP-037,2024-11-09,1
+PRD-00139,Nadec Butter & Cream Gold 814g,Dairy & Eggs,Butter & Cream,Nadec,Liter,69.04,40.58,SUP-030,2022-11-22,1
+PRD-00140,Apple Butter & Cream Gold 311g,Dairy & Eggs,Butter & Cream,Apple,Liter,36,25.37,SUP-014,2020-05-28,1
+PRD-00141,Johnson & Johnson Butter & Cream Classic 617g,Dairy & Eggs,Butter & Cream,Johnson & Johnson,Gram,135.27,94.15,SUP-041,2024-01-31,1
+PRD-00142,P&G Eggs Large 544g,Dairy & Eggs,Eggs,P&G,KG,69.59,53.72,SUP-007,2018-01-04,1
+PRD-00143,Coca Cola Eggs Gold 910g,Dairy & Eggs,Eggs,Coca Cola,Box,25.37,15.13,SUP-015,2024-10-29,1
+PRD-00144,KDD Eggs Gold 848g,Dairy & Eggs,Eggs,KDD,Bottle,101.77,64.15,SUP-012,2023-03-04,0
+PRD-00145,Danone Eggs Gold 588g,Dairy & Eggs,Eggs,Danone,Gram,128.78,91.81,SUP-049,2018-03-23,1
+PRD-00146,3M Eggs Value 494g,Dairy & Eggs,Eggs,3M,Pack,134.61,94.18,SUP-028,2025-01-20,1
+PRD-00147,Huggies Eggs Premium 750g,Dairy & Eggs,Eggs,Huggies,Pack,88.35,65.99,SUP-018,2020-10-10,1
+PRD-00148,Al Rajhi Eggs 555g,Dairy & Eggs,Eggs,Al Rajhi,Liter,21.3,12.29,SUP-033,2019-03-30,1
+PRD-00149,Tyson Eggs Gold 758g,Dairy & Eggs,Eggs,Tyson,Bottle,64.3,43.37,SUP-020,2021-12-04,1
+PRD-00150,Pepsi Eggs Premium 833g,Dairy & Eggs,Eggs,Pepsi,Box,110.83,78.84,SUP-025,2022-02-18,1
+PRD-00151,Al Rifai Eggs Family 726g,Dairy & Eggs,Eggs,Al Rifai,Gram,59.21,40.39,SUP-007,2019-07-21,1
+PRD-00152,Kellogg's Eggs 619g,Dairy & Eggs,Eggs,Kellogg's,Box,32.61,20.51,SUP-015,2024-10-03,1
+PRD-00153,Al Muhaidib Eggs Premium 882g,Dairy & Eggs,Eggs,Al Muhaidib,Can,66.69,48,SUP-009,2024-06-30,0
+PRD-00154,Saudi Dairy Eggs Value 246g,Dairy & Eggs,Eggs,Saudi Dairy,Liter,68.15,44.11,SUP-020,2018-09-15,1
+PRD-00155,Mazola Bread Premium 666g,Bakery,Bread,Mazola,Can,5.69,3.53,SUP-044,2023-08-02,1
+PRD-00156,Sadia Bread 971g,Bakery,Bread,Sadia,KG,54.41,35,SUP-005,2023-09-17,1
+PRD-00157,Pampers Bread Gold 967g,Bakery,Bread,Pampers,KG,92.22,53.11,SUP-030,2020-09-20,1
+PRD-00158,Samsung Bread Organic 311g,Bakery,Bread,Samsung,Liter,70.1,50.37,SUP-035,2023-12-25,1
+PRD-00159,Unilever Bread 646g,Bakery,Bread,Unilever,Each,45.71,27.93,SUP-021,2018-02-10,0
+PRD-00160,Dasani Bread Gold 925g,Bakery,Bread,Dasani,Liter,100.27,75.35,SUP-021,2019-12-02,1
+PRD-00161,Samsung Bread Premium 267g,Bakery,Bread,Samsung,Liter,133.43,77.67,SUP-030,2018-06-10,1
+PRD-00162,P&G Bread 162g,Bakery,Bread,P&G,Each,45.26,33.64,SUP-012,2021-01-13,0
+PRD-00163,Samsung Bread Gold 206g,Bakery,Bread,Samsung,Bottle,39.77,21.88,SUP-035,2024-06-05,0
+PRD-00164,Coca Cola Bread Premium 437g,Bakery,Bread,Coca Cola,Can,131.55,81.58,SUP-035,2024-03-07,1
+PRD-00165,Al Rajhi Bread Value 368g,Bakery,Bread,Al Rajhi,Pack,90.26,61.13,SUP-027,2020-08-26,1
+PRD-00166,Aquafina Bread Value 907g,Bakery,Bread,Aquafina,Gram,139,105.71,SUP-004,2018-01-03,1
+PRD-00167,Al Safi Bread Natural 878g,Bakery,Bread,Al Safi,Liter,102.75,58.92,SUP-050,2024-09-09,1
+PRD-00168,Binzagr Bread Organic 496g,Bakery,Bread,Binzagr,KG,32.49,18.6,SUP-017,2024-05-04,1
+PRD-00169,Huggies Bread Gold 780g,Bakery,Bread,Huggies,KG,67.15,43.6,SUP-037,2018-08-01,0
+PRD-00170,Alpro Bread Premium 769g,Bakery,Bread,Alpro,Pack,73.28,49.25,SUP-011,2022-08-25,1
+PRD-00171,Saudi Dairy Bread Large 537g,Bakery,Bread,Saudi Dairy,Gram,19.17,14.46,SUP-008,2018-07-14,1
+PRD-00172,Cadbury Bread Small 358g,Bakery,Bread,Cadbury,Box,138.04,95.02,SUP-003,2022-05-31,1
+PRD-00173,Cadbury Bread Natural 672g,Bakery,Bread,Cadbury,Liter,100.63,74.29,SUP-024,2019-11-07,1
+PRD-00174,3M Bread Family 906g,Bakery,Bread,3M,Box,8.2,4.73,SUP-023,2024-11-08,0
+PRD-00175,Anker Pastries Organic 535g,Bakery,Pastries,Anker,Box,72.96,43.22,SUP-012,2019-05-27,0
+PRD-00176,Almarai Pastries Large 750g,Bakery,Pastries,Almarai,KG,51.44,33.49,SUP-002,2020-11-25,1
+PRD-00177,Snickers Pastries Natural 410g,Bakery,Pastries,Snickers,KG,73.36,51.9,SUP-021,2022-03-06,0
+PRD-00178,Monster Pastries Organic 274g,Bakery,Pastries,Monster,Pack,91.12,67.89,SUP-015,2023-12-29,1
+PRD-00179,Oreo Pastries Classic 240g,Bakery,Pastries,Oreo,KG,3.4,2.13,SUP-023,2020-06-12,1
+PRD-00180,Dasani Pastries 157g,Bakery,Pastries,Dasani,Each,105.97,76.34,SUP-026,2019-06-08,1
+PRD-00181,3M Pastries Classic 834g,Bakery,Pastries,3M,Can,15.98,9.66,SUP-050,2025-03-06,1
+PRD-00182,Al Faisaliah Pastries Value 260g,Bakery,Pastries,Al Faisaliah,Liter,145.56,105.92,SUP-035,2025-03-16,0
+PRD-00183,Danone Pastries Organic 669g,Bakery,Pastries,Danone,Gram,38.84,27.73,SUP-021,2024-03-19,1
+PRD-00184,Dasani Pastries Small 274g,Bakery,Pastries,Dasani,Gram,29.19,16.99,SUP-021,2019-02-20,1
+PRD-00185,Al Foah Pastries Organic 600g,Bakery,Pastries,Al Foah,Gram,146.68,101.42,SUP-029,2018-09-30,1
+PRD-00186,Lay's Pastries Gold 972g,Bakery,Pastries,Lay's,Each,137.64,87.2,SUP-039,2019-01-15,1
+PRD-00187,Kellogg's Pastries Small 582g,Bakery,Pastries,Kellogg's,Bottle,69.48,50.43,SUP-041,2020-05-29,1
+PRD-00188,Dettol Pastries Value 994g,Bakery,Pastries,Dettol,KG,23.32,13.43,SUP-051,2023-03-05,1
+PRD-00189,Doritos Pastries 570g,Bakery,Pastries,Doritos,Bottle,88.14,53.75,SUP-039,2020-04-12,1
+PRD-00190,Lay's Pastries Gold 647g,Bakery,Pastries,Lay's,Each,36.63,22.02,SUP-008,2023-12-11,1
+PRD-00191,Johnson & Johnson Pastries Classic 804g,Bakery,Pastries,Johnson & Johnson,Bottle,14.76,8.93,SUP-042,2023-11-05,0
+PRD-00192,Pepsi Pastries Premium 625g,Bakery,Pastries,Pepsi,Can,65.5,43.65,SUP-012,2024-03-30,1
+PRD-00193,Doritos Pastries Value 656g,Bakery,Pastries,Doritos,Can,119.67,71.22,SUP-019,2024-03-22,1
+PRD-00194,Pepsi Pastries Classic 420g,Bakery,Pastries,Pepsi,Box,49.11,28.39,SUP-045,2021-06-06,1
+PRD-00195,Oreo Pastries Large 435g,Bakery,Pastries,Oreo,Bottle,125.18,82.74,SUP-052,2023-09-28,1
+PRD-00196,Al Jazira Cakes Classic 464g,Bakery,Cakes,Al Jazira,Liter,85.77,60.7,SUP-013,2021-04-13,1
+PRD-00197,Anker Cakes Classic 852g,Bakery,Cakes,Anker,Can,58.77,38.31,SUP-025,2019-10-28,0
+PRD-00198,Pampers Cakes Classic 417g,Bakery,Cakes,Pampers,Bottle,61.13,36.57,SUP-026,2019-07-14,0
+PRD-00199,Local Farm Cakes Natural 744g,Bakery,Cakes,Local Farm,Liter,87.4,53.34,SUP-022,2018-08-04,0
+PRD-00200,Tyson Cakes Premium 806g,Bakery,Cakes,Tyson,Each,87.33,50.28,SUP-035,2024-09-05,0
+PRD-00201,Lay's Cakes 117g,Bakery,Cakes,Lay's,Bottle,73.25,54.32,SUP-044,2021-10-26,1
+PRD-00202,KDD Cakes Gold 708g,Bakery,Cakes,KDD,Liter,106.38,74.74,SUP-019,2021-03-23,1
+PRD-00203,Binzagr Cakes Small 853g,Bakery,Cakes,Binzagr,KG,45.98,31.84,SUP-043,2024-11-24,1
+PRD-00204,Tyson Cakes Family 674g,Bakery,Cakes,Tyson,Gram,57.18,42.28,SUP-032,2021-09-07,0
+PRD-00205,Doritos Cakes Family 630g,Bakery,Cakes,Doritos,Pack,113.75,84.61,SUP-004,2020-01-04,1
+PRD-00206,Al Karamah Cakes 573g,Bakery,Cakes,Al Karamah,Pack,67.56,49.9,SUP-020,2023-12-07,0
+PRD-00207,Al Faisaliah Arabic Sweets Value 183g,Bakery,Arabic Sweets,Al Faisaliah,Can,92.24,51.04,SUP-022,2024-07-06,0
+PRD-00208,Snickers Arabic Sweets Small 436g,Bakery,Arabic Sweets,Snickers,Pack,137.6,100.68,SUP-051,2020-04-24,1
+PRD-00209,Mazola Arabic Sweets Family 635g,Bakery,Arabic Sweets,Mazola,Liter,114.68,88.98,SUP-007,2018-12-06,1
+PRD-00210,Danone Arabic Sweets Premium 314g,Bakery,Arabic Sweets,Danone,Gram,34.6,25.01,SUP-035,2019-04-13,1
+PRD-00211,Al Watania Arabic Sweets Value 954g,Bakery,Arabic Sweets,Al Watania,Pack,38.75,23.76,SUP-022,2024-06-19,1
+PRD-00212,Logitech Arabic Sweets 772g,Bakery,Arabic Sweets,Logitech,Box,123.61,91.68,SUP-029,2023-04-01,0
+PRD-00213,Nadec Arabic Sweets Family 673g,Bakery,Arabic Sweets,Nadec,Liter,57.13,43.57,SUP-038,2020-04-30,1
+PRD-00214,Huggies Arabic Sweets Classic 743g,Bakery,Arabic Sweets,Huggies,Gram,118.92,85.77,SUP-035,2018-03-26,1
+PRD-00215,Activia Arabic Sweets Organic 299g,Bakery,Arabic Sweets,Activia,Box,4.25,3,SUP-002,2019-05-13,1
+PRD-00216,Al Watania Arabic Sweets 181g,Bakery,Arabic Sweets,Al Watania,Each,38.07,23.12,SUP-035,2019-05-30,0
+PRD-00217,Al Ghurair Arabic Sweets Organic 457g,Bakery,Arabic Sweets,Al Ghurair,Pack,47.84,28.99,SUP-028,2018-06-23,0
+PRD-00218,Nadec Arabic Sweets Organic 946g,Bakery,Arabic Sweets,Nadec,Pack,104.29,77.88,SUP-046,2019-05-19,1
+PRD-00219,Kit Kat Arabic Sweets Family 406g,Bakery,Arabic Sweets,Kit Kat,Bottle,50.84,36.32,SUP-014,2022-06-29,1
+PRD-00220,Pilot Arabic Sweets Gold 608g,Bakery,Arabic Sweets,Pilot,Bottle,53.13,33.85,SUP-026,2019-07-27,1
+PRD-00221,Red Bull Chips Gold 837g,Snacks & Confectionery,Chips,Red Bull,Liter,104.31,71.01,SUP-014,2021-12-17,1
+PRD-00222,Pampers Chips Premium 741g,Snacks & Confectionery,Chips,Pampers,Gram,93.76,63.31,SUP-049,2022-10-29,1
+PRD-00223,Pringles Chips Small 561g,Snacks & Confectionery,Chips,Pringles,Bottle,95.85,54.61,SUP-022,2022-04-30,1
+PRD-00224,Nescafe Chips 290g,Snacks & Confectionery,Chips,Nescafe,Gram,88.76,55.9,SUP-008,2019-02-19,1
+PRD-00225,Kit Kat Chips 143g,Snacks & Confectionery,Chips,Kit Kat,Box,38.8,28.82,SUP-016,2023-04-16,1
+PRD-00226,Pepsi Chips Family 657g,Snacks & Confectionery,Chips,Pepsi,Liter,69.9,54.47,SUP-042,2022-03-30,1
+PRD-00227,Almarai Chips Large 402g,Snacks & Confectionery,Chips,Almarai,Box,53.11,35.58,SUP-025,2020-11-10,1
+PRD-00228,Al Karamah Chips Natural 178g,Snacks & Confectionery,Chips,Al Karamah,Each,123.01,92.93,SUP-040,2023-03-07,1
+PRD-00229,Al Faisaliah Chips Organic 648g,Snacks & Confectionery,Chips,Al Faisaliah,KG,134.02,86.34,SUP-017,2018-06-25,1
+PRD-00230,Al Foah Chips Gold 659g,Snacks & Confectionery,Chips,Al Foah,Each,8.03,4.67,SUP-014,2018-02-03,1
+PRD-00231,Mazola Chocolate Natural 237g,Snacks & Confectionery,Chocolate,Mazola,Pack,64.41,39.33,SUP-017,2025-08-02,1
+PRD-00232,Quaker Chocolate 335g,Snacks & Confectionery,Chocolate,Quaker,Gram,19.62,14.38,SUP-002,2024-06-14,1
+PRD-00233,Al Watania Chocolate Natural 607g,Snacks & Confectionery,Chocolate,Al Watania,Liter,120.1,73.24,SUP-049,2025-05-24,0
+PRD-00234,Al Faisaliah Chocolate Premium 683g,Snacks & Confectionery,Chocolate,Al Faisaliah,Box,144.87,85.45,SUP-035,2021-02-13,0
+PRD-00235,Al Jazira Chocolate Small 992g,Snacks & Confectionery,Chocolate,Al Jazira,Gram,69.52,50.3,SUP-023,2019-04-04,1
+PRD-00236,Samsung Chocolate Organic 650g,Snacks & Confectionery,Chocolate,Samsung,Can,125.14,72.74,SUP-032,2019-05-20,1
+PRD-00237,Cadbury Chocolate Premium 757g,Snacks & Confectionery,Chocolate,Cadbury,Liter,133.52,98.19,SUP-036,2019-05-06,1
+PRD-00238,Alpro Chocolate Small 894g,Snacks & Confectionery,Chocolate,Alpro,Each,59.1,35.27,SUP-014,2024-08-16,0
+PRD-00239,Alpro Chocolate Classic 619g,Snacks & Confectionery,Chocolate,Alpro,Can,79.6,47.54,SUP-031,2022-12-21,1
+PRD-00240,Al Jazira Chocolate Large 319g,Snacks & Confectionery,Chocolate,Al Jazira,Liter,35.31,21.73,SUP-031,2023-01-16,1
+PRD-00241,Samsung Chocolate Large 834g,Snacks & Confectionery,Chocolate,Samsung,Each,39.53,27.24,SUP-040,2019-04-07,1
+PRD-00242,Coca Cola Chocolate Natural 123g,Snacks & Confectionery,Chocolate,Coca Cola,Box,78.12,52.76,SUP-026,2019-06-30,1
+PRD-00243,Colgate Candy Premium 368g,Snacks & Confectionery,Candy,Colgate,Pack,27.11,19,SUP-011,2020-08-10,1
+PRD-00244,Al Rajhi Candy Organic 561g,Snacks & Confectionery,Candy,Al Rajhi,Can,7.64,4.44,SUP-018,2021-02-18,1
+PRD-00245,Saudi Dairy Candy Value 806g,Snacks & Confectionery,Candy,Saudi Dairy,KG,10.85,6.22,SUP-014,2019-10-16,1
+PRD-00246,Pringles Candy Large 960g,Snacks & Confectionery,Candy,Pringles,Pack,149.68,84.37,SUP-031,2024-11-28,1
+PRD-00247,KDD Candy Family 247g,Snacks & Confectionery,Candy,KDD,KG,143.33,96.76,SUP-030,2018-04-26,0
+PRD-00248,Danone Candy Value 254g,Snacks & Confectionery,Candy,Danone,Liter,110.97,86.12,SUP-037,2022-07-25,1
+PRD-00249,Pepsi Candy Classic 607g,Snacks & Confectionery,Candy,Pepsi,KG,28.67,21,SUP-012,2021-04-01,1
+PRD-00250,Lipton Candy Large 276g,Snacks & Confectionery,Candy,Lipton,Liter,125.28,71.78,SUP-035,2024-12-22,1
+PRD-00251,Al Safi Candy Natural 638g,Snacks & Confectionery,Candy,Al Safi,Liter,30.88,17.69,SUP-025,2020-05-31,1
+PRD-00252,Al Ghurair Candy Gold 508g,Snacks & Confectionery,Candy,Al Ghurair,Can,4.27,3.03,SUP-011,2018-08-18,1
+PRD-00253,Dettol Candy 443g,Snacks & Confectionery,Candy,Dettol,Bottle,7.68,4.91,SUP-052,2022-08-24,1
+PRD-00254,Al Karamah Candy Large 519g,Snacks & Confectionery,Candy,Al Karamah,Each,86.76,47.92,SUP-030,2023-05-03,0
+PRD-00255,Oreo Candy Classic 606g,Snacks & Confectionery,Candy,Oreo,Bottle,6.93,4.03,SUP-052,2024-04-25,1
+PRD-00256,Saudi Dairy Candy Large 730g,Snacks & Confectionery,Candy,Saudi Dairy,Can,120.28,68.63,SUP-049,2018-05-22,1
+PRD-00257,Dasani Candy Classic 309g,Snacks & Confectionery,Candy,Dasani,Liter,26.14,17.78,SUP-048,2023-09-18,1
+PRD-00258,Logitech Candy Natural 607g,Snacks & Confectionery,Candy,Logitech,Box,13.65,8.09,SUP-002,2020-11-05,1
+PRD-00259,Activia Nuts & Seeds Classic 607g,Snacks & Confectionery,Nuts & Seeds,Activia,Pack,62.61,42.64,SUP-036,2018-10-08,1
+PRD-00260,Samsung Nuts & Seeds Small 413g,Snacks & Confectionery,Nuts & Seeds,Samsung,Bottle,3.43,2.21,SUP-010,2020-07-12,1
+PRD-00261,Kit Kat Nuts & Seeds Family 288g,Snacks & Confectionery,Nuts & Seeds,Kit Kat,Gram,128.88,75.16,SUP-042,2022-06-16,1
+PRD-00262,Aquafina Nuts & Seeds Large 701g,Snacks & Confectionery,Nuts & Seeds,Aquafina,KG,52.99,38.35,SUP-010,2025-06-14,1
+PRD-00263,Tyson Nuts & Seeds Value 916g,Snacks & Confectionery,Nuts & Seeds,Tyson,Can,42.56,32.05,SUP-025,2024-12-02,1
+PRD-00264,Red Bull Nuts & Seeds Natural 756g,Snacks & Confectionery,Nuts & Seeds,Red Bull,Gram,101.97,63.49,SUP-015,2019-06-19,1
+PRD-00265,Johnson & Johnson Nuts & Seeds Value 717g,Snacks & Confectionery,Nuts & Seeds,Johnson & Johnson,KG,14.14,10.12,SUP-002,2025-08-05,1
+PRD-00266,Cadbury Nuts & Seeds Organic 698g,Snacks & Confectionery,Nuts & Seeds,Cadbury,Gram,142.33,81.95,SUP-003,2019-06-23,1
+PRD-00267,KDD Nuts & Seeds Classic 427g,Snacks & Confectionery,Nuts & Seeds,KDD,Pack,87.31,51.45,SUP-028,2024-01-23,1
+PRD-00268,Alpro Nuts & Seeds 921g,Snacks & Confectionery,Nuts & Seeds,Alpro,Liter,106.21,64.65,SUP-036,2022-10-19,0
+PRD-00269,Tamimi Nuts & Seeds Large 574g,Snacks & Confectionery,Nuts & Seeds,Tamimi,Liter,64.64,50.41,SUP-001,2023-08-11,0
+PRD-00270,Cadbury Nuts & Seeds Small 124g,Snacks & Confectionery,Nuts & Seeds,Cadbury,Bottle,48.51,31.57,SUP-043,2024-04-02,1
+PRD-00271,Al Watania Nuts & Seeds Premium 602g,Snacks & Confectionery,Nuts & Seeds,Al Watania,KG,18.66,12.92,SUP-037,2019-06-20,1
+PRD-00272,Nestle Nuts & Seeds Premium 513g,Snacks & Confectionery,Nuts & Seeds,Nestle,Bottle,46.86,30.01,SUP-047,2025-01-05,1
+PRD-00273,Samsung Nuts & Seeds Organic 335g,Snacks & Confectionery,Nuts & Seeds,Samsung,KG,31.61,21.31,SUP-033,2022-11-26,1
+PRD-00274,Kellogg's Nuts & Seeds Premium 616g,Snacks & Confectionery,Nuts & Seeds,Kellogg's,Box,141.82,81.83,SUP-037,2023-12-02,1
+PRD-00275,Cadbury Biscuits Family 831g,Snacks & Confectionery,Biscuits,Cadbury,Each,66.17,38.95,SUP-011,2020-03-27,1
+PRD-00276,Tamimi Biscuits Family 987g,Snacks & Confectionery,Biscuits,Tamimi,Each,140.97,89.18,SUP-022,2018-01-07,1
+PRD-00277,Alpro Biscuits Premium 121g,Snacks & Confectionery,Biscuits,Alpro,Each,34.63,23.42,SUP-025,2020-10-15,1
+PRD-00278,Activia Biscuits Natural 564g,Snacks & Confectionery,Biscuits,Activia,Bottle,107.86,74.05,SUP-040,2018-01-20,1
+PRD-00279,Al Osra Biscuits 192g,Snacks & Confectionery,Biscuits,Al Osra,Pack,79.36,48.25,SUP-026,2018-01-11,1
+PRD-00280,Tyson Biscuits Classic 493g,Snacks & Confectionery,Biscuits,Tyson,Box,143.35,105.89,SUP-009,2023-07-19,1
+PRD-00281,Staedtler Biscuits 789g,Snacks & Confectionery,Biscuits,Staedtler,Can,69.87,50.32,SUP-040,2018-07-03,1
+PRD-00282,Almarai Biscuits Organic 407g,Snacks & Confectionery,Biscuits,Almarai,Pack,82.41,63.2,SUP-036,2022-10-08,1
+PRD-00283,Lipton Biscuits Premium 151g,Snacks & Confectionery,Biscuits,Lipton,Each,59.8,45.56,SUP-038,2023-10-11,1
+PRD-00284,Tamimi Biscuits Natural 221g,Snacks & Confectionery,Biscuits,Tamimi,Pack,34.82,24.94,SUP-016,2022-12-31,1
+PRD-00285,Staedtler Biscuits Classic 425g,Snacks & Confectionery,Biscuits,Staedtler,Pack,16.68,11.71,SUP-036,2025-03-30,1
+PRD-00286,Carrefour Biscuits Gold 244g,Snacks & Confectionery,Biscuits,Carrefour,KG,40.72,23.8,SUP-002,2020-02-14,1
+PRD-00287,Pampers Biscuits Premium 170g,Snacks & Confectionery,Biscuits,Pampers,Gram,127.56,76.13,SUP-049,2020-09-06,1
+PRD-00288,Johnson & Johnson Biscuits Value 429g,Snacks & Confectionery,Biscuits,Johnson & Johnson,Liter,63.14,48.43,SUP-039,2024-09-12,1
+PRD-00289,Kit Kat Biscuits Small 983g,Snacks & Confectionery,Biscuits,Kit Kat,Liter,88.35,57.37,SUP-010,2018-08-08,1
+PRD-00290,Nadec Biscuits Small 759g,Snacks & Confectionery,Biscuits,Nadec,Each,83.7,61.63,SUP-046,2024-01-18,1
+PRD-00291,Carrefour Biscuits Family 768g,Snacks & Confectionery,Biscuits,Carrefour,Bottle,77.28,51.63,SUP-039,2021-03-29,1
+PRD-00292,Aquafina Biscuits Natural 244g,Snacks & Confectionery,Biscuits,Aquafina,Each,144.24,96.94,SUP-033,2018-10-14,1
+PRD-00293,Carrefour Frozen Vegetables Family 578g,Frozen Foods,Frozen Vegetables,Carrefour,Bottle,50.4,36.87,SUP-023,2025-02-22,1
+PRD-00294,Johnson & Johnson Frozen Vegetables Large 452g,Frozen Foods,Frozen Vegetables,Johnson & Johnson,Can,48.46,26.85,SUP-019,2018-12-24,1
+PRD-00295,Al Rajhi Frozen Vegetables Gold 242g,Frozen Foods,Frozen Vegetables,Al Rajhi,Gram,16.47,9.46,SUP-008,2022-09-11,1
+PRD-00296,Al Faisaliah Frozen Vegetables Organic 454g,Frozen Foods,Frozen Vegetables,Al Faisaliah,Each,28.56,17.59,SUP-026,2019-04-14,1
+PRD-00297,Nadec Frozen Vegetables Family 324g,Frozen Foods,Frozen Vegetables,Nadec,Each,71.04,43.39,SUP-027,2018-04-07,1
+PRD-00298,Lusine Frozen Vegetables Large 634g,Frozen Foods,Frozen Vegetables,Lusine,Box,21.35,13.99,SUP-002,2019-01-03,1
+PRD-00299,Coca Cola Frozen Vegetables Family 681g,Frozen Foods,Frozen Vegetables,Coca Cola,Liter,147.58,83.5,SUP-006,2019-05-28,1
+PRD-00300,Binzagr Frozen Vegetables Gold 832g,Frozen Foods,Frozen Vegetables,Binzagr,Gram,135.91,75.11,SUP-048,2022-10-25,1
+PRD-00301,Alpro Frozen Vegetables Small 419g,Frozen Foods,Frozen Vegetables,Alpro,Liter,50.45,36.16,SUP-020,2025-05-07,1
+PRD-00302,Pilot Frozen Vegetables Value 529g,Frozen Foods,Frozen Vegetables,Pilot,Bottle,23.79,17.75,SUP-020,2022-04-18,1
+PRD-00303,KDD Frozen Vegetables Organic 342g,Frozen Foods,Frozen Vegetables,KDD,Each,94.25,59.77,SUP-047,2025-01-07,1
+PRD-00304,Danone Frozen Vegetables Family 365g,Frozen Foods,Frozen Vegetables,Danone,Bottle,48.1,30.32,SUP-027,2018-12-07,1
+PRD-00305,Johnson & Johnson Frozen Vegetables Family 425g,Frozen Foods,Frozen Vegetables,Johnson & Johnson,Pack,81.38,58.79,SUP-009,2023-02-23,1
+PRD-00306,P&G Frozen Vegetables Premium 621g,Frozen Foods,Frozen Vegetables,P&G,Liter,69.33,51.64,SUP-046,2022-05-06,1
+PRD-00307,Staedtler Frozen Vegetables Natural 256g,Frozen Foods,Frozen Vegetables,Staedtler,Box,105.57,64.77,SUP-005,2024-12-20,1
+PRD-00308,Logitech Frozen Vegetables Gold 552g,Frozen Foods,Frozen Vegetables,Logitech,KG,149.67,109.52,SUP-019,2023-04-23,1
+PRD-00309,Al Muhaidib Frozen Meat Premium 754g,Frozen Foods,Frozen Meat,Al Muhaidib,Bottle,26.05,16.49,SUP-003,2022-08-18,1
+PRD-00310,Pampers Frozen Meat Gold 679g,Frozen Foods,Frozen Meat,Pampers,Can,77.76,60.54,SUP-010,2019-05-30,1
+PRD-00311,Oreo Frozen Meat Large 414g,Frozen Foods,Frozen Meat,Oreo,Each,129.95,80.66,SUP-027,2022-03-30,0
+PRD-00312,Aquafina Frozen Meat Family 188g,Frozen Foods,Frozen Meat,Aquafina,Gram,142.25,104.1,SUP-028,2020-11-01,0
+PRD-00313,Activia Frozen Meat Family 465g,Frozen Foods,Frozen Meat,Activia,KG,113.3,77.29,SUP-012,2018-03-12,1
+PRD-00314,Al Muhaidib Frozen Meat Small 758g,Frozen Foods,Frozen Meat,Al Muhaidib,Pack,104.42,75.84,SUP-007,2025-07-09,0
+PRD-00315,Mazola Frozen Meat Gold 663g,Frozen Foods,Frozen Meat,Mazola,Pack,116.68,78.43,SUP-030,2020-10-17,1
+PRD-00316,Apple Frozen Meat Large 414g,Frozen Foods,Frozen Meat,Apple,Bottle,101.13,63.47,SUP-038,2021-03-23,0
+PRD-00317,Anker Frozen Meat Family 841g,Frozen Foods,Frozen Meat,Anker,Pack,129.94,87.25,SUP-018,2024-07-31,1
+PRD-00318,Al Rifai Frozen Meat Natural 514g,Frozen Foods,Frozen Meat,Al Rifai,KG,5.92,4.44,SUP-002,2021-11-23,1
+PRD-00319,Al Safi Frozen Seafood Family 934g,Frozen Foods,Frozen Seafood,Al Safi,Gram,29.31,18.22,SUP-043,2021-02-16,1
+PRD-00320,Pampers Frozen Seafood Large 983g,Frozen Foods,Frozen Seafood,Pampers,Each,109.62,63.28,SUP-026,2018-07-28,1
+PRD-00321,Al Rajhi Frozen Seafood Gold 534g,Frozen Foods,Frozen Seafood,Al Rajhi,Each,112.24,83,SUP-016,2023-07-28,1
+PRD-00322,KDD Frozen Seafood Gold 494g,Frozen Foods,Frozen Seafood,KDD,Each,107.75,83.73,SUP-013,2019-10-31,1
+PRD-00323,Carrefour Frozen Seafood 557g,Frozen Foods,Frozen Seafood,Carrefour,Each,32.24,18.33,SUP-052,2021-02-04,1
+PRD-00324,3M Frozen Seafood Small 586g,Frozen Foods,Frozen Seafood,3M,Pack,4.45,2.69,SUP-049,2023-07-27,1
+PRD-00325,Tyson Frozen Seafood Gold 524g,Frozen Foods,Frozen Seafood,Tyson,Each,123.84,90.35,SUP-007,2025-01-25,1
+PRD-00326,Logitech Frozen Seafood Organic 800g,Frozen Foods,Frozen Seafood,Logitech,Each,139.28,99.73,SUP-017,2019-02-08,0
+PRD-00327,Binzagr Frozen Seafood Value 941g,Frozen Foods,Frozen Seafood,Binzagr,Gram,44.52,33.37,SUP-001,2025-01-19,1
+PRD-00328,Al Karamah Frozen Seafood Value 448g,Frozen Foods,Frozen Seafood,Al Karamah,Bottle,32.89,20.64,SUP-011,2019-05-04,1
+PRD-00329,Al Ghurair Frozen Seafood Gold 641g,Frozen Foods,Frozen Seafood,Al Ghurair,Can,138.59,92.88,SUP-001,2023-04-16,1
+PRD-00330,Local Farm Ice Cream Large 579g,Frozen Foods,Ice Cream,Local Farm,Pack,114.67,88.01,SUP-007,2022-10-14,1
+PRD-00331,Sadia Ice Cream Classic 897g,Frozen Foods,Ice Cream,Sadia,Can,104.31,80.78,SUP-010,2019-06-16,1
+PRD-00332,Tamimi Ice Cream 748g,Frozen Foods,Ice Cream,Tamimi,Liter,90.37,54.93,SUP-032,2019-05-10,0
+PRD-00333,Coca Cola Ice Cream Large 141g,Frozen Foods,Ice Cream,Coca Cola,Can,74.06,55.69,SUP-036,2019-03-11,1
+PRD-00334,Pepsi Ice Cream Gold 115g,Frozen Foods,Ice Cream,Pepsi,Gram,120.24,87.82,SUP-030,2023-08-13,1
+PRD-00335,Almarai Ice Cream Small 785g,Frozen Foods,Ice Cream,Almarai,KG,27.53,16.37,SUP-050,2019-07-07,1
+PRD-00336,Logitech Ice Cream Family 266g,Frozen Foods,Ice Cream,Logitech,Pack,60.8,38.9,SUP-003,2022-04-24,0
+PRD-00337,Al Muhaidib Ice Cream Gold 460g,Frozen Foods,Ice Cream,Al Muhaidib,Can,115.1,70.18,SUP-043,2023-04-18,1
+PRD-00338,Unilever Ice Cream Organic 167g,Frozen Foods,Ice Cream,Unilever,Liter,120.62,83.53,SUP-008,2020-10-04,0
+PRD-00339,Apple Ice Cream Organic 813g,Frozen Foods,Ice Cream,Apple,Box,147.43,84.12,SUP-004,2019-04-18,1
+PRD-00340,Pilot Ice Cream Family 497g,Frozen Foods,Ice Cream,Pilot,Pack,46.48,25.61,SUP-001,2020-06-10,1
+PRD-00341,Pringles Ice Cream Gold 885g,Frozen Foods,Ice Cream,Pringles,KG,9.35,7.06,SUP-011,2021-03-01,1
+PRD-00342,Carrefour Ice Cream Classic 734g,Frozen Foods,Ice Cream,Carrefour,Bottle,112.84,77.06,SUP-019,2024-01-29,1
+PRD-00343,Al Jazira Ice Cream Premium 110g,Frozen Foods,Ice Cream,Al Jazira,KG,12.23,9.29,SUP-048,2022-10-08,0
+PRD-00344,Pampers Ice Cream Premium 423g,Frozen Foods,Ice Cream,Pampers,Bottle,121.9,68.36,SUP-007,2022-02-17,1
+PRD-00345,Unilever Ice Cream Organic 881g,Frozen Foods,Ice Cream,Unilever,Liter,72.75,51.7,SUP-026,2020-09-30,1
+PRD-00346,Al Muhaidib Ice Cream 983g,Frozen Foods,Ice Cream,Al Muhaidib,Gram,130.49,78.75,SUP-036,2019-01-07,1
+PRD-00347,Almarai Ice Cream Classic 879g,Frozen Foods,Ice Cream,Almarai,KG,50.56,38.41,SUP-027,2020-11-29,1
+PRD-00348,Mazola Ice Cream 906g,Frozen Foods,Ice Cream,Mazola,Liter,77.07,57.55,SUP-008,2021-08-03,1
+PRD-00349,Nescafe Ice Cream Organic 862g,Frozen Foods,Ice Cream,Nescafe,Pack,83.89,48.78,SUP-050,2018-11-09,1
+PRD-00350,Faber-Castell Ice Cream Classic 237g,Frozen Foods,Ice Cream,Faber-Castell,Bottle,75.17,51.58,SUP-049,2024-04-24,1
+PRD-00351,Al Jazira Ice Cream Organic 365g,Frozen Foods,Ice Cream,Al Jazira,Box,17.02,10.83,SUP-041,2018-07-06,0
+PRD-00352,Dasani Ready Meals Natural 119g,Frozen Foods,Ready Meals,Dasani,Box,35.99,22.24,SUP-019,2022-11-18,1
+PRD-00353,Dettol Ready Meals Value 579g,Frozen Foods,Ready Meals,Dettol,Box,43.83,24.48,SUP-005,2022-12-14,1
+PRD-00354,Saudi Dairy Ready Meals Premium 946g,Frozen Foods,Ready Meals,Saudi Dairy,Can,70.45,40.73,SUP-025,2020-12-15,1
+PRD-00355,Al Rifai Ready Meals Large 592g,Frozen Foods,Ready Meals,Al Rifai,Each,149.25,89.52,SUP-032,2021-07-26,1
+PRD-00356,Monster Ready Meals Family 552g,Frozen Foods,Ready Meals,Monster,KG,80.69,59.62,SUP-020,2023-08-24,1
+PRD-00357,Hyper Panda Ready Meals Family 492g,Frozen Foods,Ready Meals,Hyper Panda,Each,70.21,41.23,SUP-012,2021-09-23,1
+PRD-00358,Dettol Ready Meals Gold 512g,Frozen Foods,Ready Meals,Dettol,Box,113.38,85.66,SUP-012,2024-03-23,0
+PRD-00359,Samsung Ready Meals Premium 559g,Frozen Foods,Ready Meals,Samsung,Liter,46.79,30.35,SUP-009,2018-02-12,1
+PRD-00360,Binzagr Ready Meals Large 247g,Frozen Foods,Ready Meals,Binzagr,Can,134.12,102.94,SUP-046,2020-04-25,1
+PRD-00361,Red Bull Ready Meals Natural 587g,Frozen Foods,Ready Meals,Red Bull,Liter,109.68,77.77,SUP-023,2024-10-08,1
+PRD-00362,Red Bull Ready Meals Natural 839g,Frozen Foods,Ready Meals,Red Bull,Can,134.23,92.58,SUP-027,2025-07-14,1
+PRD-00363,Pampers Ready Meals Gold 502g,Frozen Foods,Ready Meals,Pampers,Bottle,41.33,24.41,SUP-045,2021-10-02,1
+PRD-00364,Dettol Ready Meals Premium 455g,Frozen Foods,Ready Meals,Dettol,Each,37.21,26.35,SUP-039,2019-08-17,1
+PRD-00365,Coca Cola Ready Meals Classic 435g,Frozen Foods,Ready Meals,Coca Cola,Can,87.71,56.9,SUP-017,2018-02-06,1
+PRD-00366,Coca Cola Ready Meals Organic 521g,Frozen Foods,Ready Meals,Coca Cola,Can,103.07,58.06,SUP-031,2023-08-11,0
+PRD-00367,Logitech Ready Meals Organic 452g,Frozen Foods,Ready Meals,Logitech,KG,70.85,41.55,SUP-005,2024-07-31,1
+PRD-00368,Nescafe Ready Meals Gold 365g,Frozen Foods,Ready Meals,Nescafe,Box,125.1,93.12,SUP-031,2020-05-10,1
+PRD-00369,Activia Ready Meals Value 846g,Frozen Foods,Ready Meals,Activia,Bottle,126,74.52,SUP-046,2019-12-23,1
+PRD-00370,3M Ready Meals Value 205g,Frozen Foods,Ready Meals,3M,Pack,97.41,70.64,SUP-030,2022-02-28,1
+PRD-00371,Nestle Ready Meals Value 209g,Frozen Foods,Ready Meals,Nestle,Liter,92,54.08,SUP-050,2021-04-21,1
+PRD-00372,Al Rajhi Ready Meals Organic 216g,Frozen Foods,Ready Meals,Al Rajhi,KG,132.75,81.2,SUP-036,2022-07-14,0
+PRD-00373,Sadia Ready Meals Organic 279g,Frozen Foods,Ready Meals,Sadia,Pack,36.82,27.33,SUP-038,2018-02-02,1
+PRD-00374,Pepsi Fruits Family 864g,Fresh Produce,Fruits,Pepsi,Liter,6.86,5.34,SUP-037,2024-03-01,1
+PRD-00375,KDD Fruits Small 288g,Fresh Produce,Fruits,KDD,Liter,149.54,91.49,SUP-005,2018-09-06,1
+PRD-00376,Al Rifai Fruits Classic 561g,Fresh Produce,Fruits,Al Rifai,Can,6.23,4.69,SUP-049,2018-03-21,1
+PRD-00377,Pampers Fruits Natural 298g,Fresh Produce,Fruits,Pampers,Can,149.67,112.86,SUP-003,2021-11-03,1
+PRD-00378,3M Fruits 303g,Fresh Produce,Fruits,3M,Bottle,7.35,4.35,SUP-030,2020-01-22,1
+PRD-00379,Faber-Castell Fruits 329g,Fresh Produce,Fruits,Faber-Castell,Pack,43.75,32.75,SUP-029,2019-10-17,0
+PRD-00380,Cadbury Fruits Natural 347g,Fresh Produce,Fruits,Cadbury,Each,117.92,79.5,SUP-037,2018-05-14,1
+PRD-00381,Alpro Fruits Small 162g,Fresh Produce,Fruits,Alpro,Box,139.62,105.08,SUP-040,2024-11-14,0
+PRD-00382,Oreo Fruits 324g,Fresh Produce,Fruits,Oreo,Bottle,18.54,10.74,SUP-045,2019-10-10,1
+PRD-00383,Pepsi Fruits Classic 263g,Fresh Produce,Fruits,Pepsi,Pack,82.29,60.82,SUP-015,2021-11-26,1
+PRD-00384,Snickers Fruits 936g,Fresh Produce,Fruits,Snickers,Liter,146.3,82.47,SUP-028,2022-09-16,1
+PRD-00385,P&G Fruits Family 564g,Fresh Produce,Fruits,P&G,Box,97.77,66.21,SUP-020,2021-12-28,1
+PRD-00386,Tyson Fruits 866g,Fresh Produce,Fruits,Tyson,Gram,74.66,41.46,SUP-047,2018-01-03,0
+PRD-00387,Nestle Vegetables Premium 528g,Fresh Produce,Vegetables,Nestle,Can,46.95,36.55,SUP-049,2022-08-18,1
+PRD-00388,Dasani Vegetables Premium 781g,Fresh Produce,Vegetables,Dasani,Pack,9.08,6.17,SUP-011,2024-09-03,1
+PRD-00389,Dasani Vegetables Classic 480g,Fresh Produce,Vegetables,Dasani,KG,29.96,22.56,SUP-016,2024-12-13,1
+PRD-00390,Cadbury Vegetables 135g,Fresh Produce,Vegetables,Cadbury,Bottle,40.71,24.01,SUP-011,2021-11-28,1
+PRD-00391,Nescafe Vegetables Premium 271g,Fresh Produce,Vegetables,Nescafe,Bottle,32.93,20.82,SUP-003,2019-09-23,1
+PRD-00392,Pilot Vegetables Organic 452g,Fresh Produce,Vegetables,Pilot,Each,98.67,56.84,SUP-047,2020-07-15,1
+PRD-00393,Kit Kat Vegetables Premium 331g,Fresh Produce,Vegetables,Kit Kat,Liter,50.96,34.84,SUP-036,2024-04-13,1
+PRD-00394,Carrefour Vegetables 298g,Fresh Produce,Vegetables,Carrefour,Bottle,118.05,70.16,SUP-011,2021-04-21,1
+PRD-00395,P&G Vegetables 536g,Fresh Produce,Vegetables,P&G,Box,138.07,76.17,SUP-035,2018-04-20,1
+PRD-00396,Al Watania Vegetables Gold 760g,Fresh Produce,Vegetables,Al Watania,Bottle,112.63,65.12,SUP-051,2021-01-08,1
+PRD-00397,Lusine Vegetables 158g,Fresh Produce,Vegetables,Lusine,Can,26.35,19.22,SUP-049,2024-09-17,1
+PRD-00398,Oreo Vegetables 715g,Fresh Produce,Vegetables,Oreo,Box,136.38,104.85,SUP-008,2019-08-08,1
+PRD-00399,Mazola Vegetables Classic 592g,Fresh Produce,Vegetables,Mazola,Can,61.72,38.33,SUP-024,2021-02-12,1
+PRD-00400,Al Karamah Vegetables Natural 286g,Fresh Produce,Vegetables,Al Karamah,KG,136.2,94.99,SUP-037,2020-04-12,1
+PRD-00401,Lay's Vegetables Classic 700g,Fresh Produce,Vegetables,Lay's,Box,94.26,55.76,SUP-029,2018-11-08,1
+PRD-00402,KDD Vegetables Large 839g,Fresh Produce,Vegetables,KDD,Liter,73.54,42.61,SUP-028,2021-01-27,1
+PRD-00403,Oreo Vegetables Gold 744g,Fresh Produce,Vegetables,Oreo,Liter,24.79,15.07,SUP-007,2019-08-05,1
+PRD-00404,Logitech Vegetables Classic 559g,Fresh Produce,Vegetables,Logitech,Bottle,94.07,52.31,SUP-037,2024-08-26,1
+PRD-00405,Al Muhaidib Vegetables Gold 375g,Fresh Produce,Vegetables,Al Muhaidib,Gram,111.92,84.07,SUP-018,2018-09-08,1
+PRD-00406,Dasani Vegetables Classic 462g,Fresh Produce,Vegetables,Dasani,Bottle,106.51,79.65,SUP-023,2018-02-10,1
+PRD-00407,KDD Vegetables Family 202g,Fresh Produce,Vegetables,KDD,Pack,42.46,26.28,SUP-043,2018-07-22,0
+PRD-00408,Apple Vegetables 572g,Fresh Produce,Vegetables,Apple,Box,67.64,41.26,SUP-039,2019-06-04,1
+PRD-00409,Carrefour Vegetables Family 257g,Fresh Produce,Vegetables,Carrefour,Pack,111.83,74.41,SUP-016,2020-11-07,1
+PRD-00410,Carrefour Vegetables Classic 704g,Fresh Produce,Vegetables,Carrefour,Box,139.94,100.65,SUP-001,2021-05-24,0
+PRD-00411,Al Ghurair Vegetables Natural 604g,Fresh Produce,Vegetables,Al Ghurair,Liter,75.16,55.68,SUP-013,2020-05-05,1
+PRD-00412,Tyson Herbs Gold 540g,Fresh Produce,Herbs,Tyson,Gram,89.46,51.16,SUP-040,2018-08-23,1
+PRD-00413,Lay's Herbs Gold 781g,Fresh Produce,Herbs,Lay's,KG,71.42,55.05,SUP-018,2018-08-23,0
+PRD-00414,Lay's Herbs Organic 852g,Fresh Produce,Herbs,Lay's,Bottle,96.39,71.41,SUP-035,2019-12-05,1
+PRD-00415,Carrefour Herbs Value 238g,Fresh Produce,Herbs,Carrefour,Liter,66.99,48.99,SUP-002,2023-09-12,1
+PRD-00416,P&G Herbs 897g,Fresh Produce,Herbs,P&G,Box,73.63,46.63,SUP-014,2025-02-24,1
+PRD-00417,Activia Herbs 501g,Fresh Produce,Herbs,Activia,Box,57.55,39,SUP-012,2020-01-22,1
+PRD-00418,Almarai Herbs Gold 287g,Fresh Produce,Herbs,Almarai,Gram,113.86,81.72,SUP-043,2025-02-16,1
+PRD-00419,Dasani Herbs Small 557g,Fresh Produce,Herbs,Dasani,Box,114.15,77.29,SUP-013,2024-08-09,1
+PRD-00420,Logitech Herbs Premium 192g,Fresh Produce,Herbs,Logitech,Box,29.09,21.3,SUP-016,2021-01-25,1
+PRD-00421,Kit Kat Herbs Family 708g,Fresh Produce,Herbs,Kit Kat,Each,86.54,63.28,SUP-039,2025-05-07,1
+PRD-00422,P&G Herbs Value 140g,Fresh Produce,Herbs,P&G,Box,27.61,17.79,SUP-001,2020-12-10,1
+PRD-00423,Huggies Herbs 469g,Fresh Produce,Herbs,Huggies,Liter,126.27,75.09,SUP-005,2023-05-09,1
+PRD-00424,Binzagr Herbs Large 729g,Fresh Produce,Herbs,Binzagr,Pack,8.3,4.66,SUP-049,2018-12-12,0
+PRD-00425,Nescafe Beef Large 651g,Meat & Seafood,Beef,Nescafe,Box,57.18,33.22,SUP-020,2023-03-15,1
+PRD-00426,Lusine Beef Large 491g,Meat & Seafood,Beef,Lusine,Each,142.57,101.2,SUP-027,2018-03-29,0
+PRD-00427,Aquafina Beef Premium 428g,Meat & Seafood,Beef,Aquafina,Liter,70.56,43.37,SUP-008,2022-09-09,1
+PRD-00428,Al Ghurair Beef Family 500g,Meat & Seafood,Beef,Al Ghurair,KG,146.4,87.87,SUP-034,2021-12-20,1
+PRD-00429,Almarai Beef Large 574g,Meat & Seafood,Beef,Almarai,Box,86.94,51.81,SUP-028,2019-01-05,1
+PRD-00430,Huggies Beef Family 977g,Meat & Seafood,Beef,Huggies,Bottle,65.28,46.01,SUP-014,2020-03-22,1
+PRD-00431,Al Foah Beef 365g,Meat & Seafood,Beef,Al Foah,KG,4.33,3.09,SUP-028,2021-05-12,1
+PRD-00432,3M Beef Classic 498g,Meat & Seafood,Beef,3M,Gram,32.01,19.64,SUP-019,2019-04-22,1
+PRD-00433,Quaker Beef Value 774g,Meat & Seafood,Beef,Quaker,Liter,28.85,19.34,SUP-031,2022-09-18,1
+PRD-00434,Nestle Beef Large 909g,Meat & Seafood,Beef,Nestle,KG,129.15,88.99,SUP-012,2024-12-29,1
+PRD-00435,Huggies Beef Natural 928g,Meat & Seafood,Beef,Huggies,Pack,43.42,28.61,SUP-022,2019-02-14,0
+PRD-00436,Sadia Beef Classic 955g,Meat & Seafood,Beef,Sadia,Can,67.6,46.82,SUP-037,2020-02-13,1
+PRD-00437,Snickers Beef Premium 272g,Meat & Seafood,Beef,Snickers,KG,105.36,71.53,SUP-029,2021-06-14,1
+PRD-00438,Dettol Beef Value 272g,Meat & Seafood,Beef,Dettol,Bottle,41.93,25.65,SUP-028,2021-10-05,1
+PRD-00439,Al Jazira Beef 361g,Meat & Seafood,Beef,Al Jazira,Can,124.03,84.48,SUP-001,2019-11-09,1
+PRD-00440,Dettol Chicken Large 487g,Meat & Seafood,Chicken,Dettol,Box,81.57,52.71,SUP-037,2018-06-19,1
+PRD-00441,Carrefour Chicken Large 628g,Meat & Seafood,Chicken,Carrefour,Liter,71.47,51.37,SUP-018,2018-09-16,1
+PRD-00442,Almarai Chicken Large 612g,Meat & Seafood,Chicken,Almarai,Gram,90.35,62.7,SUP-021,2023-05-28,1
+PRD-00443,Pepsi Chicken Small 340g,Meat & Seafood,Chicken,Pepsi,Gram,15.98,11.66,SUP-039,2018-03-07,1
+PRD-00444,Tyson Chicken Value 646g,Meat & Seafood,Chicken,Tyson,Pack,117.7,71.82,SUP-028,2018-07-24,1
+PRD-00445,Mazola Chicken Natural 854g,Meat & Seafood,Chicken,Mazola,Pack,127.35,78.64,SUP-030,2023-09-01,0
+PRD-00446,Lipton Chicken Value 152g,Meat & Seafood,Chicken,Lipton,Liter,43.18,30.98,SUP-006,2024-01-30,1
+PRD-00447,Samsung Chicken Organic 999g,Meat & Seafood,Chicken,Samsung,Liter,98.64,60.07,SUP-027,2023-03-30,1
+PRD-00448,Tamimi Chicken Large 513g,Meat & Seafood,Chicken,Tamimi,Pack,131.83,83.66,SUP-020,2018-12-23,0
+PRD-00449,Pringles Chicken 684g,Meat & Seafood,Chicken,Pringles,Each,122.93,94.14,SUP-010,2023-01-29,1
+PRD-00450,Staedtler Chicken 963g,Meat & Seafood,Chicken,Staedtler,Pack,105.13,58.09,SUP-034,2021-06-15,1
+PRD-00451,Al Safi Chicken Gold 494g,Meat & Seafood,Chicken,Al Safi,Each,105.38,64.99,SUP-016,2022-01-28,1
+PRD-00452,Alpro Chicken Premium 445g,Meat & Seafood,Chicken,Alpro,Each,132.64,79.9,SUP-016,2022-12-25,1
+PRD-00453,Faber-Castell Chicken Gold 351g,Meat & Seafood,Chicken,Faber-Castell,Bottle,65.16,36.24,SUP-031,2025-03-25,1
+PRD-00454,Al Muhaidib Chicken Natural 582g,Meat & Seafood,Chicken,Al Muhaidib,Pack,33.62,22.73,SUP-009,2020-01-20,1
+PRD-00455,Johnson & Johnson Chicken Value 688g,Meat & Seafood,Chicken,Johnson & Johnson,KG,63.02,45.91,SUP-040,2018-03-08,0
+PRD-00456,Kellogg's Chicken Gold 541g,Meat & Seafood,Chicken,Kellogg's,Gram,77.44,46.48,SUP-049,2021-09-11,0
+PRD-00457,Unilever Lamb Large 686g,Meat & Seafood,Lamb,Unilever,Liter,71.93,42.94,SUP-044,2019-11-24,0
+PRD-00458,Carrefour Lamb Gold 874g,Meat & Seafood,Lamb,Carrefour,Can,93.64,72.77,SUP-002,2021-07-13,1
+PRD-00459,Apple Lamb Small 684g,Meat & Seafood,Lamb,Apple,Box,5.73,3.33,SUP-008,2023-02-09,1
+PRD-00460,Lipton Lamb Gold 532g,Meat & Seafood,Lamb,Lipton,Pack,98.07,66.23,SUP-026,2025-08-28,1
+PRD-00461,Saudi Dairy Lamb Large 291g,Meat & Seafood,Lamb,Saudi Dairy,Each,62.55,45.37,SUP-026,2019-10-30,0
+PRD-00462,Staedtler Lamb Premium 585g,Meat & Seafood,Lamb,Staedtler,Bottle,144.42,110.77,SUP-038,2024-07-09,1
+PRD-00463,Dettol Lamb 182g,Meat & Seafood,Lamb,Dettol,Box,125.95,83.48,SUP-036,2019-09-23,1
+PRD-00464,Carrefour Lamb Large 891g,Meat & Seafood,Lamb,Carrefour,Bottle,50.12,32.91,SUP-030,2018-01-25,0
+PRD-00465,Nestle Lamb Small 725g,Meat & Seafood,Lamb,Nestle,KG,123.8,72.98,SUP-038,2021-04-10,1
+PRD-00466,Red Bull Fish 648g,Meat & Seafood,Fish,Red Bull,Bottle,108.4,83.87,SUP-006,2025-07-26,1
+PRD-00467,Oreo Fish 808g,Meat & Seafood,Fish,Oreo,Each,47.12,27.14,SUP-023,2024-05-05,0
+PRD-00468,Johnson & Johnson Fish Natural 713g,Meat & Seafood,Fish,Johnson & Johnson,Box,68.82,38.86,SUP-022,2024-01-16,1
+PRD-00469,Coca Cola Fish Small 721g,Meat & Seafood,Fish,Coca Cola,Box,2.79,2.15,SUP-018,2020-08-08,0
+PRD-00470,Faber-Castell Fish Small 774g,Meat & Seafood,Fish,Faber-Castell,Bottle,78.11,57.54,SUP-045,2019-08-24,1
+PRD-00471,Quaker Fish Classic 524g,Meat & Seafood,Fish,Quaker,Can,109.39,72.79,SUP-001,2022-05-02,1
+PRD-00472,Binzagr Fish Large 794g,Meat & Seafood,Fish,Binzagr,Pack,42.48,26.72,SUP-042,2023-12-02,0
+PRD-00473,Anker Fish Premium 205g,Meat & Seafood,Fish,Anker,Liter,113.95,79.72,SUP-017,2024-07-07,1
+PRD-00474,Lusine Seafood Large 559g,Meat & Seafood,Seafood,Lusine,Each,50.96,29.37,SUP-004,2024-09-19,1
+PRD-00475,Johnson & Johnson Seafood Premium 556g,Meat & Seafood,Seafood,Johnson & Johnson,Each,95.54,57.02,SUP-033,2025-01-20,0
+PRD-00476,Al Safi Seafood Classic 565g,Meat & Seafood,Seafood,Al Safi,Box,78.84,50.65,SUP-034,2019-11-10,0
+PRD-00477,3M Seafood Family 766g,Meat & Seafood,Seafood,3M,KG,63.66,47.21,SUP-034,2021-08-29,1
+PRD-00478,Al Muhaidib Seafood Value 250g,Meat & Seafood,Seafood,Al Muhaidib,Gram,127.97,98.39,SUP-012,2025-03-12,1
+PRD-00479,Al Faisaliah Seafood Classic 529g,Meat & Seafood,Seafood,Al Faisaliah,Each,43.15,27.93,SUP-038,2019-04-06,0
+PRD-00480,Logitech Seafood Classic 275g,Meat & Seafood,Seafood,Logitech,Can,134.42,86.49,SUP-009,2018-03-05,0
+PRD-00481,Al Safi Seafood Premium 345g,Meat & Seafood,Seafood,Al Safi,Pack,80.73,52.87,SUP-041,2019-12-19,1
+PRD-00482,Coca Cola Seafood Small 387g,Meat & Seafood,Seafood,Coca Cola,KG,101.7,61.04,SUP-052,2024-09-02,1
+PRD-00483,Al Faisaliah Seafood Small 442g,Meat & Seafood,Seafood,Al Faisaliah,Can,98.52,74.58,SUP-006,2020-01-02,1
+PRD-00484,Activia Seafood Family 405g,Meat & Seafood,Seafood,Activia,Box,112.59,78.95,SUP-024,2020-05-30,1
+PRD-00485,Local Farm Seafood Classic 259g,Meat & Seafood,Seafood,Local Farm,Bottle,5.24,3.43,SUP-016,2018-02-06,1
+PRD-00486,Sadia Seafood 562g,Meat & Seafood,Seafood,Sadia,Liter,136.65,101.02,SUP-046,2018-08-29,1
+PRD-00487,Al Rajhi Seafood Value 100g,Meat & Seafood,Seafood,Al Rajhi,Box,58.07,44.2,SUP-019,2020-09-19,1
+PRD-00488,Oreo Seafood Small 143g,Meat & Seafood,Seafood,Oreo,Gram,22.11,13.97,SUP-045,2022-10-07,1
+PRD-00489,Al Jazira Seafood Gold 934g,Meat & Seafood,Seafood,Al Jazira,Can,113.7,83.19,SUP-050,2021-02-14,1
+PRD-00490,Nescafe Seafood Small 960g,Meat & Seafood,Seafood,Nescafe,Box,131.37,75.84,SUP-046,2024-05-23,1
+PRD-00491,Mazola Seafood Organic 383g,Meat & Seafood,Seafood,Mazola,Liter,39.19,25.26,SUP-013,2019-06-05,1
+PRD-00492,Nestle Seafood Natural 926g,Meat & Seafood,Seafood,Nestle,Can,8.17,5.63,SUP-040,2023-12-07,1
+PRD-00493,Kit Kat Seafood Family 481g,Meat & Seafood,Seafood,Kit Kat,KG,88.83,60.44,SUP-032,2025-06-23,1
+PRD-00494,Al Ain Seafood Small 290g,Meat & Seafood,Seafood,Al Ain,Liter,112.9,66.89,SUP-027,2024-04-27,0
+PRD-00495,Al Ain Seafood Natural 507g,Meat & Seafood,Seafood,Al Ain,Pack,4.13,3.19,SUP-037,2024-07-17,1
+PRD-00496,Pepsi Seafood Organic 486g,Meat & Seafood,Seafood,Pepsi,Box,30.4,20.83,SUP-048,2024-10-06,0
+PRD-00497,Nescafe Seafood Gold 852g,Meat & Seafood,Seafood,Nescafe,Can,34.26,25.66,SUP-026,2024-03-27,0
+PRD-00498,Hyper Panda Cleaning Supplies 291g,Household,Cleaning Supplies,Hyper Panda,Gram,75.58,57.5,SUP-028,2018-02-20,1
+PRD-00499,Al Foah Cleaning Supplies Gold 276g,Household,Cleaning Supplies,Al Foah,Each,38.94,26.1,SUP-052,2020-10-27,0
+PRD-00500,Huggies Cleaning Supplies Organic 304g,Household,Cleaning Supplies,Huggies,Bottle,38.94,30.16,SUP-039,2018-12-13,1
+PRD-00501,Al Ain Cleaning Supplies Premium 104g,Household,Cleaning Supplies,Al Ain,Pack,61.86,38.14,SUP-004,2025-04-26,1
+PRD-00502,Staedtler Cleaning Supplies 841g,Household,Cleaning Supplies,Staedtler,Pack,61.34,47.23,SUP-020,2025-04-24,1
+PRD-00503,Apple Cleaning Supplies Small 848g,Household,Cleaning Supplies,Apple,Pack,7.48,4.49,SUP-008,2018-03-10,1
+PRD-00504,Al Osra Cleaning Supplies Value 429g,Household,Cleaning Supplies,Al Osra,Box,122.2,92.54,SUP-035,2023-04-10,1
+PRD-00505,Al Safi Cleaning Supplies Gold 545g,Household,Cleaning Supplies,Al Safi,Gram,89.74,66.55,SUP-025,2021-05-02,1
+PRD-00506,Activia Cleaning Supplies Family 403g,Household,Cleaning Supplies,Activia,Each,118.42,74.11,SUP-046,2025-04-12,1
+PRD-00507,Nadec Cleaning Supplies Large 444g,Household,Cleaning Supplies,Nadec,Bottle,78.99,44.01,SUP-032,2022-10-14,1
+PRD-00508,Local Farm Cleaning Supplies Classic 737g,Household,Cleaning Supplies,Local Farm,KG,141.51,96.01,SUP-040,2022-06-30,1
+PRD-00509,Faber-Castell Cleaning Supplies Gold 936g,Household,Cleaning Supplies,Faber-Castell,Each,140.81,98.47,SUP-024,2022-07-06,0
+PRD-00510,Al Ain Cleaning Supplies Classic 585g,Household,Cleaning Supplies,Al Ain,Gram,132.2,80.19,SUP-001,2023-01-12,0
+PRD-00511,Johnson & Johnson Cleaning Supplies Gold 540g,Household,Cleaning Supplies,Johnson & Johnson,Gram,62.83,48.69,SUP-010,2025-04-23,1
+PRD-00512,Apple Cleaning Supplies Small 353g,Household,Cleaning Supplies,Apple,KG,127.38,84.44,SUP-008,2019-11-01,1
+PRD-00513,Monster Cleaning Supplies Large 593g,Household,Cleaning Supplies,Monster,Gram,144.74,107.92,SUP-007,2018-02-22,1
+PRD-00514,Mazola Cleaning Supplies Large 757g,Household,Cleaning Supplies,Mazola,Box,74.8,42.4,SUP-023,2018-09-12,1
+PRD-00515,Johnson & Johnson Cleaning Supplies 880g,Household,Cleaning Supplies,Johnson & Johnson,Box,15.21,11.74,SUP-010,2021-09-28,0
+PRD-00516,Activia Cleaning Supplies 839g,Household,Cleaning Supplies,Activia,Pack,125.78,86.27,SUP-034,2023-06-07,1
+PRD-00517,Red Bull Cleaning Supplies Large 405g,Household,Cleaning Supplies,Red Bull,Box,70.29,51.76,SUP-020,2021-01-31,1
+PRD-00518,Kit Kat Cleaning Supplies Premium 898g,Household,Cleaning Supplies,Kit Kat,KG,83.62,55.48,SUP-002,2022-12-24,0
+PRD-00519,Johnson & Johnson Cleaning Supplies Large 422g,Household,Cleaning Supplies,Johnson & Johnson,Pack,130.24,99.28,SUP-001,2023-04-11,1
+PRD-00520,Al Karamah Laundry 173g,Household,Laundry,Al Karamah,Can,117.17,81.42,SUP-045,2024-04-01,1
+PRD-00521,Lusine Laundry Large 773g,Household,Laundry,Lusine,Box,73.79,55.25,SUP-038,2021-11-22,1
+PRD-00522,Cadbury Laundry Large 361g,Household,Laundry,Cadbury,Each,54.37,37.47,SUP-005,2024-04-05,1
+PRD-00523,Al Jazira Laundry Organic 657g,Household,Laundry,Al Jazira,Pack,2.71,1.94,SUP-052,2019-01-26,1
+PRD-00524,Pilot Laundry Small 377g,Household,Laundry,Pilot,Liter,125.69,88.47,SUP-016,2024-10-02,1
+PRD-00525,Faber-Castell Laundry Value 940g,Household,Laundry,Faber-Castell,Can,61.26,33.73,SUP-019,2018-02-16,0
+PRD-00526,Nescafe Laundry Premium 834g,Household,Laundry,Nescafe,KG,134.11,83.6,SUP-020,2019-04-26,0
+PRD-00527,Cadbury Laundry Large 718g,Household,Laundry,Cadbury,Box,147.75,87.32,SUP-052,2024-01-20,1
+PRD-00528,Tamimi Laundry Natural 503g,Household,Laundry,Tamimi,Box,33.33,24.21,SUP-048,2018-06-13,1
+PRD-00529,Al Jazira Laundry Gold 667g,Household,Laundry,Al Jazira,Liter,57.33,40.56,SUP-018,2025-01-17,1
+PRD-00530,Al Muhaidib Laundry Gold 112g,Household,Laundry,Al Muhaidib,Box,68.11,43.6,SUP-011,2024-10-26,1
+PRD-00531,Lusine Laundry Natural 389g,Household,Laundry,Lusine,Liter,145.7,103.9,SUP-014,2020-04-14,1
+PRD-00532,Lay's Laundry Family 304g,Household,Laundry,Lay's,Each,108.82,83.19,SUP-039,2023-04-03,1
+PRD-00533,Lipton Laundry Gold 619g,Household,Laundry,Lipton,Each,127.88,92.75,SUP-028,2023-06-20,1
+PRD-00534,Al Jazira Laundry 671g,Household,Laundry,Al Jazira,Can,108.68,84.58,SUP-003,2024-09-09,1
+PRD-00535,Al Safi Laundry Classic 713g,Household,Laundry,Al Safi,Pack,146.91,99.08,SUP-047,2025-01-21,1
+PRD-00536,Anker Laundry Classic 304g,Household,Laundry,Anker,Box,35.3,26,SUP-025,2019-02-15,1
+PRD-00537,Lay's Laundry Gold 446g,Household,Laundry,Lay's,Each,81.72,51.39,SUP-052,2022-06-24,1
+PRD-00538,Al Muhaidib Paper Products 771g,Household,Paper Products,Al Muhaidib,Liter,20.1,11.2,SUP-030,2025-09-01,1
+PRD-00539,Aquafina Paper Products Large 715g,Household,Paper Products,Aquafina,Can,5.17,3.65,SUP-031,2023-05-10,1
+PRD-00540,Pringles Paper Products Small 591g,Household,Paper Products,Pringles,Each,107.4,80.4,SUP-044,2025-08-12,1
+PRD-00541,Faber-Castell Paper Products Large 181g,Household,Paper Products,Faber-Castell,Can,96.98,70.08,SUP-019,2022-05-19,1
+PRD-00542,Huggies Paper Products Organic 846g,Household,Paper Products,Huggies,Bottle,93.59,63.89,SUP-027,2023-06-14,1
+PRD-00543,Johnson & Johnson Paper Products Natural 284g,Household,Paper Products,Johnson & Johnson,Bottle,22.01,13.76,SUP-049,2024-06-18,1
+PRD-00544,Staedtler Paper Products Large 113g,Household,Paper Products,Staedtler,Box,2.91,2.1,SUP-005,2023-12-30,1
+PRD-00545,Saudi Dairy Paper Products Value 932g,Household,Paper Products,Saudi Dairy,Can,21.64,11.93,SUP-025,2023-10-19,1
+PRD-00546,Nadec Paper Products Premium 502g,Household,Paper Products,Nadec,Bottle,51.27,28.69,SUP-026,2020-09-04,1
+PRD-00547,Samsung Paper Products Premium 232g,Household,Paper Products,Samsung,Pack,3.73,2.61,SUP-028,2020-12-25,1
+PRD-00548,Al Rajhi Paper Products Classic 111g,Household,Paper Products,Al Rajhi,Bottle,82.89,56.77,SUP-038,2019-04-30,1
+PRD-00549,Nadec Paper Products Large 754g,Household,Paper Products,Nadec,Each,121.31,70.71,SUP-009,2018-04-06,0
+PRD-00550,Lipton Paper Products Large 885g,Household,Paper Products,Lipton,Can,52.5,38.02,SUP-037,2023-03-30,0
+PRD-00551,Monster Air Fresheners 764g,Household,Air Fresheners,Monster,Box,128.98,99.69,SUP-003,2018-07-22,0
+PRD-00552,Hyper Panda Air Fresheners Premium 236g,Household,Air Fresheners,Hyper Panda,Can,81.18,51.16,SUP-032,2021-04-24,1
+PRD-00553,Lipton Air Fresheners 240g,Household,Air Fresheners,Lipton,Each,122.17,76.16,SUP-048,2024-03-30,0
+PRD-00554,Kit Kat Air Fresheners Organic 330g,Household,Air Fresheners,Kit Kat,Pack,104.79,60.63,SUP-002,2025-01-27,0
+PRD-00555,Al Foah Air Fresheners 498g,Household,Air Fresheners,Al Foah,Gram,108.46,75.35,SUP-034,2020-05-15,1
+PRD-00556,Logitech Air Fresheners Small 880g,Household,Air Fresheners,Logitech,Gram,126.25,81,SUP-026,2019-10-05,1
+PRD-00557,Local Farm Air Fresheners Organic 252g,Household,Air Fresheners,Local Farm,Pack,119.64,79.38,SUP-032,2018-08-03,1
+PRD-00558,Carrefour Air Fresheners Premium 340g,Household,Air Fresheners,Carrefour,Liter,62.59,35.9,SUP-027,2019-07-26,1
+PRD-00559,Al Rifai Air Fresheners Value 110g,Household,Air Fresheners,Al Rifai,KG,64.9,42.4,SUP-041,2019-09-24,1
+PRD-00560,Pilot Air Fresheners Premium 234g,Household,Air Fresheners,Pilot,Bottle,138.42,87.38,SUP-005,2022-02-08,0
+PRD-00561,Pringles Air Fresheners Organic 303g,Household,Air Fresheners,Pringles,Each,6.51,3.68,SUP-015,2025-08-14,1
+PRD-00562,Nestle Air Fresheners Classic 423g,Household,Air Fresheners,Nestle,Liter,75.81,42.64,SUP-034,2022-12-08,0
+PRD-00563,Nadec Air Fresheners Family 361g,Household,Air Fresheners,Nadec,KG,57.58,32.66,SUP-016,2024-08-16,1
+PRD-00564,Snickers Air Fresheners Small 157g,Household,Air Fresheners,Snickers,Liter,67.74,52.35,SUP-047,2022-02-05,1
+PRD-00565,KDD Air Fresheners Organic 811g,Household,Air Fresheners,KDD,Can,102.8,70.34,SUP-021,2023-03-01,1
+PRD-00566,Al Watania Air Fresheners Classic 876g,Household,Air Fresheners,Al Watania,Liter,140.2,91.13,SUP-048,2021-05-15,1
+PRD-00567,Tyson Air Fresheners Organic 497g,Household,Air Fresheners,Tyson,Pack,34.18,23.15,SUP-013,2021-08-13,0
+PRD-00568,Mazola Air Fresheners Gold 571g,Household,Air Fresheners,Mazola,Liter,41.42,27.99,SUP-001,2022-03-13,1
+PRD-00569,Nadec Air Fresheners Large 863g,Household,Air Fresheners,Nadec,Can,116.37,86.69,SUP-052,2018-12-30,0
+PRD-00570,Nescafe Insecticides Classic 677g,Household,Insecticides,Nescafe,Box,128.69,75.63,SUP-039,2022-01-14,1
+PRD-00571,Mazola Insecticides Large 970g,Household,Insecticides,Mazola,Box,38.18,27.06,SUP-039,2023-05-17,1
+PRD-00572,Colgate Insecticides Large 679g,Household,Insecticides,Colgate,Liter,103.19,63.62,SUP-003,2020-02-02,0
+PRD-00573,Faber-Castell Insecticides Large 881g,Household,Insecticides,Faber-Castell,Box,22.17,16.35,SUP-052,2023-02-28,1
+PRD-00574,Al Rajhi Insecticides Family 364g,Household,Insecticides,Al Rajhi,Box,129.27,84.16,SUP-016,2024-12-22,1
+PRD-00575,Monster Insecticides Organic 767g,Household,Insecticides,Monster,Box,108.84,61.03,SUP-016,2020-01-17,1
+PRD-00576,Al Watania Insecticides Premium 166g,Household,Insecticides,Al Watania,Liter,16.35,11.31,SUP-015,2019-12-19,0
+PRD-00577,Cadbury Insecticides Large 404g,Household,Insecticides,Cadbury,Can,45.77,32.12,SUP-039,2024-08-17,0
+PRD-00578,Aquafina Insecticides Premium 918g,Household,Insecticides,Aquafina,Can,133.7,83.73,SUP-021,2018-12-11,1
+PRD-00579,Samsung Insecticides Organic 229g,Household,Insecticides,Samsung,Liter,42.14,23.74,SUP-029,2021-08-18,1
+PRD-00580,Al Watania Insecticides 171g,Household,Insecticides,Al Watania,Bottle,104.23,70.54,SUP-015,2019-05-25,1
+PRD-00581,Almarai Insecticides Natural 907g,Household,Insecticides,Almarai,KG,108.2,84.01,SUP-014,2025-07-21,1
+PRD-00582,Pepsi Insecticides Natural 740g,Household,Insecticides,Pepsi,Box,116.58,88.62,SUP-032,2023-01-15,1
+PRD-00583,Quaker Insecticides Classic 524g,Household,Insecticides,Quaker,Each,34.71,26.71,SUP-026,2021-05-08,1
+PRD-00584,Saudi Dairy Insecticides Value 103g,Household,Insecticides,Saudi Dairy,Bottle,139.01,94.31,SUP-004,2020-09-02,1
+PRD-00585,Pampers Insecticides 420g,Household,Insecticides,Pampers,Box,7.6,5.27,SUP-051,2021-05-31,1
+PRD-00586,Lusine Shampoo Premium 755g,Personal Care,Shampoo,Lusine,Can,109.87,80.42,SUP-020,2018-08-08,1
+PRD-00587,Pilot Shampoo Premium 791g,Personal Care,Shampoo,Pilot,Liter,75.67,49.85,SUP-049,2022-02-11,0
+PRD-00588,Dasani Shampoo Natural 241g,Personal Care,Shampoo,Dasani,Gram,65.63,44.69,SUP-001,2022-10-27,1
+PRD-00589,Almarai Shampoo Large 823g,Personal Care,Shampoo,Almarai,Liter,126.81,75.31,SUP-033,2025-06-06,1
+PRD-00590,Al Faisaliah Shampoo Natural 914g,Personal Care,Shampoo,Al Faisaliah,KG,127.43,97.81,SUP-047,2018-10-18,1
+PRD-00591,Al Watania Shampoo Organic 709g,Personal Care,Shampoo,Al Watania,Can,68.55,47.88,SUP-014,2019-03-04,0
+PRD-00592,Staedtler Shampoo 815g,Personal Care,Shampoo,Staedtler,Can,34.59,24.98,SUP-035,2021-02-11,0
+PRD-00593,Colgate Shampoo 823g,Personal Care,Shampoo,Colgate,Liter,13.91,7.76,SUP-048,2024-12-15,1
+PRD-00594,Huggies Shampoo Small 711g,Personal Care,Shampoo,Huggies,Bottle,48.75,28.42,SUP-027,2022-11-23,1
+PRD-00595,Red Bull Shampoo Large 704g,Personal Care,Shampoo,Red Bull,KG,21.31,16.1,SUP-007,2019-06-20,1
+PRD-00596,Dasani Shampoo 820g,Personal Care,Shampoo,Dasani,Pack,108.49,76.15,SUP-007,2021-09-11,0
+PRD-00597,Kit Kat Shampoo Organic 333g,Personal Care,Shampoo,Kit Kat,KG,85.45,47.32,SUP-045,2018-10-27,1
+PRD-00598,Tamimi Shampoo Family 240g,Personal Care,Shampoo,Tamimi,Bottle,68.94,50.87,SUP-034,2021-05-30,1
+PRD-00599,Snickers Shampoo Family 449g,Personal Care,Shampoo,Snickers,Liter,27.96,19.98,SUP-048,2023-08-27,1
+PRD-00600,Al Karamah Shampoo Gold 638g,Personal Care,Shampoo,Al Karamah,Box,127.47,96.76,SUP-009,2020-04-19,1
+PRD-00601,Al Osra Shampoo Value 159g,Personal Care,Shampoo,Al Osra,Gram,97.34,68.25,SUP-019,2018-10-04,1
+PRD-00602,Al Osra Shampoo Classic 848g,Personal Care,Shampoo,Al Osra,Bottle,9.8,6.96,SUP-017,2024-06-15,1
+PRD-00603,Snickers Soap 713g,Personal Care,Soap,Snickers,KG,71.46,45.74,SUP-049,2025-08-15,1
+PRD-00604,Al Jazira Soap Value 738g,Personal Care,Soap,Al Jazira,KG,65.69,44.7,SUP-051,2022-05-04,1
+PRD-00605,Logitech Soap Large 103g,Personal Care,Soap,Logitech,Can,102.54,60.03,SUP-026,2019-05-04,1
+PRD-00606,Samsung Soap 244g,Personal Care,Soap,Samsung,Liter,82.59,47.01,SUP-026,2019-06-27,1
+PRD-00607,KDD Soap Organic 426g,Personal Care,Soap,KDD,Can,64.26,45.46,SUP-027,2021-02-11,1
+PRD-00608,Mazola Soap Gold 508g,Personal Care,Soap,Mazola,Gram,100.66,62.95,SUP-049,2022-01-08,1
+PRD-00609,Doritos Soap Family 360g,Personal Care,Soap,Doritos,Can,17.23,11.18,SUP-001,2018-01-29,1
+PRD-00610,Unilever Soap Organic 633g,Personal Care,Soap,Unilever,Liter,79.76,58.7,SUP-009,2021-04-07,1
+PRD-00611,Doritos Soap Natural 461g,Personal Care,Soap,Doritos,KG,13.02,8.13,SUP-010,2019-12-19,1
+PRD-00612,Anker Soap Classic 888g,Personal Care,Soap,Anker,Can,47.12,36.03,SUP-001,2019-08-12,1
+PRD-00613,Coca Cola Soap Gold 536g,Personal Care,Soap,Coca Cola,Each,80.57,53.81,SUP-015,2021-07-27,1
+PRD-00614,Anker Soap Classic 563g,Personal Care,Soap,Anker,Each,8.68,6.69,SUP-027,2020-03-05,1
+PRD-00615,Logitech Soap Small 257g,Personal Care,Soap,Logitech,Bottle,94.28,62.97,SUP-027,2018-09-06,1
+PRD-00616,Al Safi Soap Organic 848g,Personal Care,Soap,Al Safi,Each,120.1,80.99,SUP-048,2023-12-31,1
+PRD-00617,Saudi Dairy Soap Small 864g,Personal Care,Soap,Saudi Dairy,Pack,147.51,88.34,SUP-043,2024-06-27,1
+PRD-00618,Tyson Soap Classic 943g,Personal Care,Soap,Tyson,Can,116.1,79.78,SUP-037,2023-06-18,1
+PRD-00619,Samsung Soap Family 668g,Personal Care,Soap,Samsung,KG,42.73,24.58,SUP-024,2022-05-14,0
+PRD-00620,Cadbury Soap Small 425g,Personal Care,Soap,Cadbury,Each,80.18,52.66,SUP-023,2022-03-27,1
+PRD-00621,Snickers Soap Premium 686g,Personal Care,Soap,Snickers,Gram,148.21,98.5,SUP-041,2020-07-01,0
+PRD-00622,Lipton Soap Organic 698g,Personal Care,Soap,Lipton,Each,102.33,59.58,SUP-028,2018-01-05,1
+PRD-00623,Cadbury Oral Care Premium 920g,Personal Care,Oral Care,Cadbury,Bottle,24.2,18.71,SUP-023,2023-12-13,0
+PRD-00624,Alpro Oral Care Gold 387g,Personal Care,Oral Care,Alpro,Each,23.14,15.22,SUP-020,2019-09-22,1
+PRD-00625,Monster Oral Care Value 780g,Personal Care,Oral Care,Monster,Can,16.71,11,SUP-035,2022-11-25,1
+PRD-00626,Pringles Oral Care Classic 772g,Personal Care,Oral Care,Pringles,KG,92.43,52.25,SUP-028,2020-12-30,0
+PRD-00627,Danone Oral Care Premium 612g,Personal Care,Oral Care,Danone,Box,25.95,19.28,SUP-021,2025-03-12,0
+PRD-00628,Anker Oral Care Gold 925g,Personal Care,Oral Care,Anker,KG,60.97,35.02,SUP-027,2019-10-14,1
+PRD-00629,Binzagr Oral Care Family 539g,Personal Care,Oral Care,Binzagr,Each,115.55,83.13,SUP-024,2024-02-26,1
+PRD-00630,Hyper Panda Oral Care Small 269g,Personal Care,Oral Care,Hyper Panda,Can,94.35,61.01,SUP-031,2021-04-13,0
+PRD-00631,Red Bull Oral Care Value 297g,Personal Care,Oral Care,Red Bull,Each,17.05,10.88,SUP-012,2024-08-15,1
+PRD-00632,Al Muhaidib Oral Care Classic 480g,Personal Care,Oral Care,Al Muhaidib,Pack,145.07,112.54,SUP-034,2019-01-05,1
+PRD-00633,Al Rifai Oral Care Small 897g,Personal Care,Oral Care,Al Rifai,Box,76.35,57.56,SUP-024,2021-10-24,0
+PRD-00634,Snickers Oral Care Gold 707g,Personal Care,Oral Care,Snickers,Each,63.61,48.64,SUP-010,2020-08-22,1
+PRD-00635,Quaker Oral Care Large 769g,Personal Care,Oral Care,Quaker,Can,109.43,63.18,SUP-040,2023-08-21,0
+PRD-00636,Saudi Dairy Oral Care Family 333g,Personal Care,Oral Care,Saudi Dairy,Can,147.15,103.92,SUP-037,2018-08-20,1
+PRD-00637,Hyper Panda Oral Care Natural 423g,Personal Care,Oral Care,Hyper Panda,KG,122.35,91.86,SUP-046,2024-01-30,1
+PRD-00638,Nadec Oral Care Gold 387g,Personal Care,Oral Care,Nadec,Can,101.49,78.8,SUP-038,2021-08-15,1
+PRD-00639,Al Faisaliah Skin Care Natural 608g,Personal Care,Skin Care,Al Faisaliah,Gram,119.18,74.15,SUP-038,2023-11-20,1
+PRD-00640,Huggies Skin Care Gold 653g,Personal Care,Skin Care,Huggies,Each,132.08,98.25,SUP-048,2020-05-10,1
+PRD-00641,Al Jazira Skin Care 166g,Personal Care,Skin Care,Al Jazira,Gram,12.28,8.15,SUP-004,2024-04-03,0
+PRD-00642,Snickers Skin Care 880g,Personal Care,Skin Care,Snickers,Liter,57.02,33.56,SUP-036,2020-05-10,0
+PRD-00643,Lipton Skin Care Value 520g,Personal Care,Skin Care,Lipton,Bottle,83.7,56.14,SUP-010,2018-03-11,1
+PRD-00644,P&G Skin Care Large 707g,Personal Care,Skin Care,P&G,Liter,14.19,10.03,SUP-012,2019-04-15,0
+PRD-00645,Saudi Dairy Skin Care Organic 855g,Personal Care,Skin Care,Saudi Dairy,Pack,95.73,64.7,SUP-052,2024-02-18,1
+PRD-00646,Aquafina Skin Care Gold 635g,Personal Care,Skin Care,Aquafina,Liter,139.44,103.87,SUP-051,2019-02-07,0
+PRD-00647,Dettol Skin Care Premium 764g,Personal Care,Skin Care,Dettol,Can,22.24,12.27,SUP-026,2022-05-09,0
+PRD-00648,Al Safi Skin Care Premium 565g,Personal Care,Skin Care,Al Safi,Box,131.28,78.83,SUP-050,2019-08-25,0
+PRD-00649,Aquafina Hair Care 336g,Personal Care,Hair Care,Aquafina,Bottle,59.67,36.59,SUP-046,2023-09-26,1
+PRD-00650,Al Muhaidib Hair Care Value 147g,Personal Care,Hair Care,Al Muhaidib,Bottle,47.31,33.79,SUP-003,2022-09-20,1
+PRD-00651,Oreo Hair Care 523g,Personal Care,Hair Care,Oreo,Bottle,70.39,54.85,SUP-013,2021-10-17,1
+PRD-00652,Carrefour Hair Care Value 552g,Personal Care,Hair Care,Carrefour,Bottle,68.3,49.19,SUP-050,2019-12-01,1
+PRD-00653,KDD Hair Care Organic 747g,Personal Care,Hair Care,KDD,Each,50.13,35.43,SUP-050,2021-07-27,1
+PRD-00654,Tamimi Hair Care Organic 230g,Personal Care,Hair Care,Tamimi,Pack,136,91.22,SUP-040,2024-10-07,1
+PRD-00655,Al Osra Hair Care Small 369g,Personal Care,Hair Care,Al Osra,Each,42.89,26.66,SUP-033,2024-01-11,1
+PRD-00656,KDD Hair Care Small 165g,Personal Care,Hair Care,KDD,KG,145.85,110,SUP-004,2025-04-22,1
+PRD-00657,Alpro Hair Care Large 763g,Personal Care,Hair Care,Alpro,Gram,24.98,18.63,SUP-013,2022-06-29,0
+PRD-00658,Kellogg's Hair Care Natural 938g,Personal Care,Hair Care,Kellogg's,Pack,19.29,13.91,SUP-038,2025-03-01,1
+PRD-00659,Logitech Hair Care 557g,Personal Care,Hair Care,Logitech,Each,131.22,98.54,SUP-010,2020-08-08,1
+PRD-00660,Pampers Hair Care Small 465g,Personal Care,Hair Care,Pampers,Liter,117.25,78.31,SUP-017,2022-08-15,1
+PRD-00661,Al Watania Hair Care Premium 879g,Personal Care,Hair Care,Al Watania,Bottle,122.01,90.1,SUP-028,2022-10-17,1
+PRD-00662,Huggies Hair Care Natural 323g,Personal Care,Hair Care,Huggies,Box,5.69,3.93,SUP-031,2020-06-14,1
+PRD-00663,Al Jazira Hair Care Classic 463g,Personal Care,Hair Care,Al Jazira,Can,100.13,63.5,SUP-046,2019-10-19,0
+PRD-00664,Faber-Castell Hair Care Family 778g,Personal Care,Hair Care,Faber-Castell,Can,106.24,64.14,SUP-033,2022-05-31,0
+PRD-00665,Dettol Hair Care Premium 239g,Personal Care,Hair Care,Dettol,Pack,112.1,70.2,SUP-024,2025-06-04,1
+PRD-00666,Binzagr Hair Care Large 332g,Personal Care,Hair Care,Binzagr,Box,26.64,16.49,SUP-025,2022-03-08,1
+PRD-00667,Sadia Hair Care Small 650g,Personal Care,Hair Care,Sadia,Bottle,53.68,36.72,SUP-052,2022-05-13,1
+PRD-00668,3M Hair Care Large 407g,Personal Care,Hair Care,3M,KG,71.32,52.26,SUP-031,2020-11-08,1
+PRD-00669,Pepsi Hair Care Organic 860g,Personal Care,Hair Care,Pepsi,Gram,109.76,74.12,SUP-042,2018-12-04,1
+PRD-00670,Cadbury Hair Care 217g,Personal Care,Hair Care,Cadbury,Liter,111.76,63.1,SUP-001,2021-10-11,1
+PRD-00671,3M Hair Care Family 178g,Personal Care,Hair Care,3M,Pack,26.33,16.93,SUP-036,2018-10-22,1
+PRD-00672,Pilot Hair Care Large 906g,Personal Care,Hair Care,Pilot,KG,149.77,111.23,SUP-043,2023-05-19,1
+PRD-00673,Carrefour Hair Care 361g,Personal Care,Hair Care,Carrefour,Bottle,133.68,94.86,SUP-052,2023-01-17,1
+PRD-00674,Activia Deodorants 929g,Personal Care,Deodorants,Activia,Box,149.44,100.62,SUP-019,2025-06-14,1
+PRD-00675,Coca Cola Deodorants Premium 931g,Personal Care,Deodorants,Coca Cola,Box,116.17,75.24,SUP-041,2021-11-25,1
+PRD-00676,Al Watania Deodorants 493g,Personal Care,Deodorants,Al Watania,Box,109.59,63.21,SUP-013,2022-08-30,1
+PRD-00677,Kellogg's Deodorants 864g,Personal Care,Deodorants,Kellogg's,Liter,70.3,54.67,SUP-027,2022-11-19,1
+PRD-00678,Almarai Deodorants Organic 864g,Personal Care,Deodorants,Almarai,Liter,23.08,17.55,SUP-018,2019-12-14,1
+PRD-00679,Al Ain Deodorants Family 236g,Personal Care,Deodorants,Al Ain,Bottle,119.53,73.13,SUP-038,2024-02-08,1
+PRD-00680,Al Karamah Deodorants Large 842g,Personal Care,Deodorants,Al Karamah,Can,135.2,104.58,SUP-036,2020-06-23,1
+PRD-00681,Mazola Deodorants Premium 196g,Personal Care,Deodorants,Mazola,Can,55.32,41.42,SUP-040,2018-10-23,1
+PRD-00682,Al Faisaliah Baby Food Natural 223g,Baby Care,Baby Food,Al Faisaliah,KG,47.4,29.27,SUP-040,2019-11-04,1
+PRD-00683,Nescafe Baby Food Organic 164g,Baby Care,Baby Food,Nescafe,Can,117.09,72.59,SUP-026,2022-01-16,1
+PRD-00684,Logitech Baby Food Natural 933g,Baby Care,Baby Food,Logitech,Each,47.81,27.51,SUP-025,2020-10-05,1
+PRD-00685,Alpro Baby Food Large 168g,Baby Care,Baby Food,Alpro,Gram,21.42,15.4,SUP-042,2022-04-12,0
+PRD-00686,Al Faisaliah Baby Food 876g,Baby Care,Baby Food,Al Faisaliah,Box,51.89,36.17,SUP-032,2022-12-02,1
+PRD-00687,Apple Baby Food Classic 405g,Baby Care,Baby Food,Apple,Each,132.42,73.63,SUP-051,2024-02-21,1
+PRD-00688,Almarai Baby Food Organic 451g,Baby Care,Baby Food,Almarai,Pack,145.99,104.76,SUP-014,2021-01-15,1
+PRD-00689,Staedtler Baby Food Gold 508g,Baby Care,Baby Food,Staedtler,Can,103.29,60.15,SUP-035,2024-01-05,1
+PRD-00690,Al Watania Baby Food Value 873g,Baby Care,Baby Food,Al Watania,Bottle,2.62,2.02,SUP-005,2020-11-01,1
+PRD-00691,Cadbury Baby Food Classic 482g,Baby Care,Baby Food,Cadbury,Can,58.25,35.96,SUP-013,2019-09-02,1
+PRD-00692,Lusine Baby Food 568g,Baby Care,Baby Food,Lusine,Can,19.38,13.29,SUP-021,2020-05-25,1
+PRD-00693,Al Ain Baby Food Premium 396g,Baby Care,Baby Food,Al Ain,Each,131.54,89.99,SUP-019,2020-09-25,1
+PRD-00694,Binzagr Diapers Classic 626g,Baby Care,Diapers,Binzagr,Bottle,66.73,37.5,SUP-034,2022-03-12,0
+PRD-00695,Nadec Diapers Gold 591g,Baby Care,Diapers,Nadec,Bottle,11.32,6.45,SUP-014,2024-07-13,1
+PRD-00696,Oreo Diapers Classic 356g,Baby Care,Diapers,Oreo,Bottle,16.08,10.45,SUP-035,2022-08-17,1
+PRD-00697,Al Faisaliah Diapers Premium 597g,Baby Care,Diapers,Al Faisaliah,Pack,17.82,12.05,SUP-007,2018-07-05,0
+PRD-00698,Al Muhaidib Diapers Gold 427g,Baby Care,Diapers,Al Muhaidib,Liter,62.29,38.57,SUP-022,2023-02-04,1
+PRD-00699,Johnson & Johnson Diapers Premium 246g,Baby Care,Diapers,Johnson & Johnson,Liter,97.24,71.87,SUP-043,2020-03-21,1
+PRD-00700,Staedtler Diapers Classic 481g,Baby Care,Diapers,Staedtler,KG,121.77,71.99,SUP-048,2020-03-14,1
+PRD-00701,P&G Diapers Family 299g,Baby Care,Diapers,P&G,Each,7.4,4.38,SUP-033,2022-11-04,1
+PRD-00702,Binzagr Diapers Organic 812g,Baby Care,Diapers,Binzagr,Each,104.48,73.69,SUP-009,2019-11-20,1
+PRD-00703,Activia Diapers Small 907g,Baby Care,Diapers,Activia,Box,16.6,9.23,SUP-027,2023-05-22,1
+PRD-00704,KDD Diapers Small 427g,Baby Care,Diapers,KDD,Box,48.97,27.15,SUP-026,2022-10-05,1
+PRD-00705,Red Bull Diapers Gold 244g,Baby Care,Diapers,Red Bull,Box,127.7,74.22,SUP-009,2021-02-12,1
+PRD-00706,Al Safi Diapers Large 989g,Baby Care,Diapers,Al Safi,Box,148.7,88.08,SUP-012,2018-07-13,1
+PRD-00707,Unilever Diapers Premium 197g,Baby Care,Diapers,Unilever,Each,23.13,17.25,SUP-008,2020-04-30,1
+PRD-00708,Al Rifai Diapers Large 689g,Baby Care,Diapers,Al Rifai,Pack,47.75,28.38,SUP-042,2019-12-15,1
+PRD-00709,Pepsi Diapers Classic 915g,Baby Care,Diapers,Pepsi,Bottle,78.76,46.19,SUP-047,2024-09-14,1
+PRD-00710,Lay's Diapers Natural 795g,Baby Care,Diapers,Lay's,KG,125.28,78.51,SUP-014,2021-05-31,1
+PRD-00711,Al Jazira Diapers Small 724g,Baby Care,Diapers,Al Jazira,Can,61.46,39.86,SUP-001,2019-12-11,1
+PRD-00712,Tyson Diapers Natural 297g,Baby Care,Diapers,Tyson,KG,78.02,46.03,SUP-004,2024-07-17,1
+PRD-00713,Nescafe Diapers Value 751g,Baby Care,Diapers,Nescafe,Can,67,46.48,SUP-016,2021-02-07,0
+PRD-00714,Sadia Diapers Organic 281g,Baby Care,Diapers,Sadia,Can,96.45,71.47,SUP-023,2022-07-16,1
+PRD-00715,Lay's Diapers Natural 513g,Baby Care,Diapers,Lay's,Gram,104.03,76.69,SUP-037,2018-09-29,1
+PRD-00716,Mazola Diapers Natural 261g,Baby Care,Diapers,Mazola,Gram,115.19,84.22,SUP-041,2023-09-24,1
+PRD-00717,Johnson & Johnson Baby Wipes Small 584g,Baby Care,Baby Wipes,Johnson & Johnson,Gram,46.77,28.08,SUP-026,2024-07-10,1
+PRD-00718,Dasani Baby Wipes Value 896g,Baby Care,Baby Wipes,Dasani,KG,45.06,34.36,SUP-026,2022-11-14,1
+PRD-00719,Al Muhaidib Baby Wipes Large 674g,Baby Care,Baby Wipes,Al Muhaidib,Liter,36.92,21.39,SUP-041,2024-06-19,0
+PRD-00720,Logitech Baby Wipes Large 257g,Baby Care,Baby Wipes,Logitech,KG,52.51,31.33,SUP-046,2022-05-10,1
+PRD-00721,Staedtler Baby Wipes Small 205g,Baby Care,Baby Wipes,Staedtler,Gram,89.88,59.25,SUP-011,2025-03-10,1
+PRD-00722,Anker Baby Wipes Natural 301g,Baby Care,Baby Wipes,Anker,Bottle,97.62,60.97,SUP-014,2025-05-24,1
+PRD-00723,Johnson & Johnson Baby Wipes Gold 867g,Baby Care,Baby Wipes,Johnson & Johnson,Liter,83.41,50.6,SUP-037,2018-04-18,1
+PRD-00724,Colgate Baby Wipes Gold 250g,Baby Care,Baby Wipes,Colgate,KG,17.44,11.86,SUP-038,2025-03-01,1
+PRD-00725,Al Rajhi Baby Wipes Gold 906g,Baby Care,Baby Wipes,Al Rajhi,Pack,92.24,59.54,SUP-023,2020-07-08,0
+PRD-00726,Lusine Baby Wipes Gold 771g,Baby Care,Baby Wipes,Lusine,Bottle,17.47,12.4,SUP-006,2018-04-30,1
+PRD-00727,Saudi Dairy Baby Wipes Large 585g,Baby Care,Baby Wipes,Saudi Dairy,Box,75.82,48.32,SUP-031,2019-11-12,1
+PRD-00728,3M Baby Wipes Gold 728g,Baby Care,Baby Wipes,3M,Liter,16.57,12.22,SUP-036,2018-03-20,0
+PRD-00729,Pilot Baby Wipes Small 687g,Baby Care,Baby Wipes,Pilot,Bottle,23.14,13.35,SUP-008,2021-03-15,1
+PRD-00730,Colgate Baby Wipes Small 901g,Baby Care,Baby Wipes,Colgate,Can,31.48,20.19,SUP-021,2025-03-16,1
+PRD-00731,Samsung Baby Wipes 951g,Baby Care,Baby Wipes,Samsung,Box,23.76,15.19,SUP-045,2021-04-29,1
+PRD-00732,Alpro Baby Wipes Large 712g,Baby Care,Baby Wipes,Alpro,Pack,62.31,40.86,SUP-048,2024-07-24,0
+PRD-00733,Al Faisaliah Baby Wipes Premium 320g,Baby Care,Baby Wipes,Al Faisaliah,Liter,135.14,99.83,SUP-017,2023-09-03,1
+PRD-00734,Al Muhaidib Baby Wipes Natural 819g,Baby Care,Baby Wipes,Al Muhaidib,Liter,18.7,13.38,SUP-037,2023-02-28,1
+PRD-00735,Al Rajhi Baby Wipes Premium 521g,Baby Care,Baby Wipes,Al Rajhi,Bottle,62.97,37.8,SUP-015,2024-09-23,1
+PRD-00736,Al Safi Baby Wipes Natural 210g,Baby Care,Baby Wipes,Al Safi,Box,17.97,11.33,SUP-050,2024-05-28,1
+PRD-00737,Al Foah Baby Wipes Large 681g,Baby Care,Baby Wipes,Al Foah,KG,61.7,44.31,SUP-003,2018-11-30,1
+PRD-00738,Monster Baby Toiletries Small 320g,Baby Care,Baby Toiletries,Monster,Can,42.65,32.46,SUP-027,2023-05-29,1
+PRD-00739,Tamimi Baby Toiletries Classic 388g,Baby Care,Baby Toiletries,Tamimi,Each,42.86,31.71,SUP-035,2020-12-22,1
+PRD-00740,Danone Baby Toiletries Classic 985g,Baby Care,Baby Toiletries,Danone,Liter,11.66,7.74,SUP-014,2018-06-04,1
+PRD-00741,Lipton Baby Toiletries Classic 206g,Baby Care,Baby Toiletries,Lipton,Liter,136.53,75.42,SUP-019,2024-06-26,0
+PRD-00742,Al Muhaidib Baby Toiletries Premium 148g,Baby Care,Baby Toiletries,Al Muhaidib,KG,99.51,69.75,SUP-011,2018-06-08,1
+PRD-00743,Al Osra Baby Toiletries Natural 973g,Baby Care,Baby Toiletries,Al Osra,Liter,85.37,65.13,SUP-026,2024-02-08,1
+PRD-00744,Activia Baby Toiletries 716g,Baby Care,Baby Toiletries,Activia,Each,144.81,87.85,SUP-010,2019-05-15,1
+PRD-00745,Lipton Baby Toiletries Organic 409g,Baby Care,Baby Toiletries,Lipton,KG,76.54,57.73,SUP-004,2020-05-08,1
+PRD-00746,Coca Cola Baby Toiletries Premium 812g,Baby Care,Baby Toiletries,Coca Cola,Can,13.52,9.19,SUP-043,2019-01-29,1
+PRD-00747,Samsung Baby Toiletries 202g,Baby Care,Baby Toiletries,Samsung,Bottle,141.03,107.43,SUP-025,2018-08-29,1
+PRD-00748,Oreo Baby Toiletries Classic 975g,Baby Care,Baby Toiletries,Oreo,Pack,118.61,86.81,SUP-008,2020-04-12,1
+PRD-00749,Colgate Baby Toiletries 798g,Baby Care,Baby Toiletries,Colgate,KG,106.55,81.3,SUP-002,2019-07-09,1
+PRD-00750,Pilot Baby Toiletries Premium 265g,Baby Care,Baby Toiletries,Pilot,Pack,70.93,43.73,SUP-008,2019-06-27,0
+PRD-00751,Quaker Baby Toiletries Small 424g,Baby Care,Baby Toiletries,Quaker,Box,128.03,97.17,SUP-045,2018-11-04,0
+PRD-00752,Red Bull Baby Toiletries Value 969g,Baby Care,Baby Toiletries,Red Bull,Gram,145.54,96.48,SUP-019,2022-10-22,1
+PRD-00753,Nescafe Mobile Accessories Classic 138g,Electronics,Mobile Accessories,Nescafe,Can,84.23,52.17,SUP-008,2025-05-17,1
+PRD-00754,Al Foah Mobile Accessories Small 273g,Electronics,Mobile Accessories,Al Foah,Bottle,117.91,82.25,SUP-008,2021-11-27,1
+PRD-00755,Logitech Mobile Accessories Large 184g,Electronics,Mobile Accessories,Logitech,Gram,9.56,5.74,SUP-004,2022-08-11,0
+PRD-00756,Al Muhaidib Mobile Accessories Family 497g,Electronics,Mobile Accessories,Al Muhaidib,Pack,66.42,42.74,SUP-017,2021-11-11,1
+PRD-00757,Dasani Mobile Accessories Family 875g,Electronics,Mobile Accessories,Dasani,Can,149.76,107.84,SUP-005,2018-01-09,1
+PRD-00758,Al Faisaliah Mobile Accessories Value 837g,Electronics,Mobile Accessories,Al Faisaliah,Pack,56.08,42.89,SUP-030,2024-07-19,0
+PRD-00759,Local Farm Mobile Accessories Small 633g,Electronics,Mobile Accessories,Local Farm,Gram,106.46,68.98,SUP-039,2021-03-02,0
+PRD-00760,Al Watania Mobile Accessories 326g,Electronics,Mobile Accessories,Al Watania,Each,147.34,82.07,SUP-007,2024-08-17,1
+PRD-00761,Nestle Mobile Accessories Natural 313g,Electronics,Mobile Accessories,Nestle,Gram,69.08,43.78,SUP-033,2021-04-28,1
+PRD-00762,Apple Mobile Accessories Value 753g,Electronics,Mobile Accessories,Apple,Pack,148.6,97.3,SUP-025,2022-07-14,1
+PRD-00763,P&G Batteries Small 491g,Electronics,Batteries,P&G,Each,56.63,37.35,SUP-043,2018-06-25,1
+PRD-00764,Kit Kat Batteries Small 213g,Electronics,Batteries,Kit Kat,Bottle,129.21,71.22,SUP-025,2023-09-17,1
+PRD-00765,Anker Batteries Premium 906g,Electronics,Batteries,Anker,Can,29.05,21.18,SUP-007,2018-01-22,1
+PRD-00766,Al Faisaliah Batteries Natural 518g,Electronics,Batteries,Al Faisaliah,Each,147.12,103.67,SUP-052,2019-02-15,1
+PRD-00767,Al Ain Batteries Premium 583g,Electronics,Batteries,Al Ain,Liter,81.6,48.04,SUP-033,2019-04-01,1
+PRD-00768,Doritos Batteries Family 243g,Electronics,Batteries,Doritos,Bottle,130.85,76.27,SUP-010,2020-01-12,1
+PRD-00769,Sadia Batteries Premium 648g,Electronics,Batteries,Sadia,KG,25.37,16.7,SUP-010,2023-11-25,1
+PRD-00770,Doritos Batteries 709g,Electronics,Batteries,Doritos,KG,149.99,83.6,SUP-018,2019-01-13,1
+PRD-00771,Danone Batteries Small 563g,Electronics,Batteries,Danone,Pack,113.32,68.27,SUP-051,2019-02-21,1
+PRD-00772,Staedtler Batteries Premium 945g,Electronics,Batteries,Staedtler,Gram,38.83,23.09,SUP-050,2022-12-20,1
+PRD-00773,Dasani Batteries Gold 706g,Electronics,Batteries,Dasani,Box,115.51,88.07,SUP-001,2022-11-24,1
+PRD-00774,Al Foah Batteries Organic 601g,Electronics,Batteries,Al Foah,Each,96.83,66.59,SUP-030,2023-11-18,1
+PRD-00775,Saudi Dairy Batteries Gold 117g,Electronics,Batteries,Saudi Dairy,Pack,21.32,11.84,SUP-020,2019-02-24,0
+PRD-00776,Kit Kat Batteries Organic 348g,Electronics,Batteries,Kit Kat,KG,136.73,77.63,SUP-022,2019-06-02,0
+PRD-00777,Alpro Batteries Small 394g,Electronics,Batteries,Alpro,Can,136.19,92.31,SUP-052,2023-02-04,1
+PRD-00778,Danone Batteries Family 663g,Electronics,Batteries,Danone,Each,132.86,78.43,SUP-042,2023-09-20,0
+PRD-00779,Staedtler Batteries Premium 494g,Electronics,Batteries,Staedtler,Bottle,92.51,66.97,SUP-032,2024-04-09,1
+PRD-00780,Tamimi Batteries Value 671g,Electronics,Batteries,Tamimi,Pack,149.32,105.05,SUP-007,2020-06-27,0
+PRD-00781,Danone Batteries Value 356g,Electronics,Batteries,Danone,Bottle,135.97,100.49,SUP-026,2024-09-08,0
+PRD-00782,Oreo Small Appliances Gold 430g,Electronics,Small Appliances,Oreo,Gram,122.61,93.24,SUP-051,2022-03-05,0
+PRD-00783,Al Watania Small Appliances Premium 657g,Electronics,Small Appliances,Al Watania,KG,47.64,28.25,SUP-048,2018-01-03,1
+PRD-00784,Local Farm Small Appliances 752g,Electronics,Small Appliances,Local Farm,Each,144.8,102.6,SUP-023,2019-09-20,0
+PRD-00785,Local Farm Small Appliances Natural 115g,Electronics,Small Appliances,Local Farm,Liter,120.65,68.21,SUP-004,2022-05-11,1
+PRD-00786,Johnson & Johnson Small Appliances Large 563g,Electronics,Small Appliances,Johnson & Johnson,KG,70.31,44.67,SUP-003,2018-12-06,1
+PRD-00787,Oreo Small Appliances Natural 195g,Electronics,Small Appliances,Oreo,Bottle,23.73,15.33,SUP-036,2018-10-11,1
+PRD-00788,Tyson Small Appliances Premium 243g,Electronics,Small Appliances,Tyson,Gram,135.09,81.13,SUP-002,2023-09-29,1
+PRD-00789,Coca Cola Small Appliances Natural 730g,Electronics,Small Appliances,Coca Cola,Box,73.14,51,SUP-026,2021-04-26,1
+PRD-00790,Quaker Audio Value 980g,Electronics,Audio,Quaker,Box,116.65,72.83,SUP-052,2018-02-07,0
+PRD-00791,Kit Kat Audio Large 861g,Electronics,Audio,Kit Kat,Box,102.11,77.32,SUP-012,2020-05-20,1
+PRD-00792,Al Jazira Audio Premium 380g,Electronics,Audio,Al Jazira,Pack,3.2,2.09,SUP-009,2021-06-14,1
+PRD-00793,Danone Audio Large 994g,Electronics,Audio,Danone,Liter,51.32,35.31,SUP-021,2023-12-30,1
+PRD-00794,Oreo Audio 129g,Electronics,Audio,Oreo,Liter,70.13,41.38,SUP-032,2024-04-25,1
+PRD-00795,Almarai Audio Family 477g,Electronics,Audio,Almarai,Can,26.42,14.9,SUP-049,2020-05-22,1
+PRD-00796,Al Muhaidib Audio Organic 791g,Electronics,Audio,Al Muhaidib,KG,23.8,15.05,SUP-015,2018-12-05,1
+PRD-00797,Al Faisaliah Audio Family 637g,Electronics,Audio,Al Faisaliah,Liter,81.83,49.27,SUP-018,2018-03-24,1
+PRD-00798,Local Farm Audio Family 806g,Electronics,Audio,Local Farm,Pack,66.67,43.46,SUP-007,2023-06-12,1
+PRD-00799,3M Audio Family 949g,Electronics,Audio,3M,Box,25.65,14.26,SUP-006,2022-07-27,1
+PRD-00800,Al Rifai Audio Family 222g,Electronics,Audio,Al Rifai,Gram,139.32,98.56,SUP-038,2019-12-23,1
+PRD-00801,Unilever Audio Value 979g,Electronics,Audio,Unilever,Each,91.61,58.73,SUP-009,2021-12-24,1
+PRD-00802,Red Bull Audio Large 700g,Electronics,Audio,Red Bull,Box,20.36,13.54,SUP-020,2023-12-18,1
+PRD-00803,Almarai Audio Premium 528g,Electronics,Audio,Almarai,Pack,29.78,20.98,SUP-004,2019-03-12,0
+PRD-00804,Nescafe Audio Large 482g,Electronics,Audio,Nescafe,Bottle,97.34,64.49,SUP-032,2018-12-14,0
+PRD-00805,Nadec Audio Premium 288g,Electronics,Audio,Nadec,Gram,2.8,1.82,SUP-025,2019-08-22,1
+PRD-00806,Samsung Audio Small 816g,Electronics,Audio,Samsung,Can,52.73,29.78,SUP-048,2022-02-18,1
+PRD-00807,Almarai Notebooks 736g,Stationery,Notebooks,Almarai,Box,109.75,66.09,SUP-019,2021-11-10,1
+PRD-00808,Al Ain Notebooks Classic 494g,Stationery,Notebooks,Al Ain,Can,112.08,73.64,SUP-051,2023-12-30,1
+PRD-00809,Kit Kat Notebooks Small 551g,Stationery,Notebooks,Kit Kat,KG,51.4,38.18,SUP-029,2018-02-22,1
+PRD-00810,Al Rajhi Notebooks Organic 300g,Stationery,Notebooks,Al Rajhi,Pack,46.12,35.12,SUP-043,2023-01-23,1
+PRD-00811,Nestle Notebooks Natural 448g,Stationery,Notebooks,Nestle,Each,145.46,91.53,SUP-043,2023-04-13,1
+PRD-00812,Al Karamah Notebooks 263g,Stationery,Notebooks,Al Karamah,Pack,20.94,15.47,SUP-042,2021-08-08,1
+PRD-00813,Sadia Notebooks Classic 916g,Stationery,Notebooks,Sadia,Each,10.6,6.21,SUP-016,2018-10-11,1
+PRD-00814,P&G Notebooks Gold 796g,Stationery,Notebooks,P&G,Can,73.07,40.59,SUP-041,2023-05-12,1
+PRD-00815,Red Bull Notebooks Family 254g,Stationery,Notebooks,Red Bull,Bottle,51.96,36.75,SUP-008,2024-01-18,1
+PRD-00816,Tyson Notebooks Family 487g,Stationery,Notebooks,Tyson,KG,25.41,17.76,SUP-024,2022-08-24,1
+PRD-00817,Faber-Castell Notebooks Classic 392g,Stationery,Notebooks,Faber-Castell,Box,75.95,52.36,SUP-013,2018-03-30,1
+PRD-00818,Saudi Dairy Notebooks Large 564g,Stationery,Notebooks,Saudi Dairy,Gram,141,102.62,SUP-016,2024-05-22,0
+PRD-00819,Al Watania Notebooks Family 994g,Stationery,Notebooks,Al Watania,Bottle,136.41,97.08,SUP-005,2020-04-28,1
+PRD-00820,Lipton Notebooks 774g,Stationery,Notebooks,Lipton,Liter,67.01,42.71,SUP-014,2019-06-04,1
+PRD-00821,Alpro Notebooks Small 205g,Stationery,Notebooks,Alpro,Can,144.76,101.56,SUP-013,2025-08-29,1
+PRD-00822,Johnson & Johnson Notebooks Classic 449g,Stationery,Notebooks,Johnson & Johnson,Bottle,53.02,40.37,SUP-009,2018-06-18,1
+PRD-00823,KDD Notebooks Premium 934g,Stationery,Notebooks,KDD,Liter,117.39,86.27,SUP-011,2022-10-19,1
+PRD-00824,Pepsi Pens & Pencils Large 992g,Stationery,Pens & Pencils,Pepsi,Gram,66.08,37.31,SUP-010,2023-06-22,1
+PRD-00825,Cadbury Pens & Pencils Organic 325g,Stationery,Pens & Pencils,Cadbury,Bottle,49.1,32.53,SUP-024,2025-07-18,1
+PRD-00826,Oreo Pens & Pencils Natural 728g,Stationery,Pens & Pencils,Oreo,Can,139.73,108.26,SUP-017,2023-12-07,1
+PRD-00827,Al Jazira Pens & Pencils Natural 263g,Stationery,Pens & Pencils,Al Jazira,Box,45.79,28.12,SUP-052,2024-06-24,1
+PRD-00828,Hyper Panda Pens & Pencils Classic 122g,Stationery,Pens & Pencils,Hyper Panda,KG,56.72,36.5,SUP-009,2021-07-13,1
+PRD-00829,Johnson & Johnson Pens & Pencils 528g,Stationery,Pens & Pencils,Johnson & Johnson,Gram,87.84,56.05,SUP-022,2019-03-26,1
+PRD-00830,Huggies Pens & Pencils Natural 884g,Stationery,Pens & Pencils,Huggies,Box,101.64,73.45,SUP-027,2023-07-10,1
+PRD-00831,Local Farm Pens & Pencils Organic 819g,Stationery,Pens & Pencils,Local Farm,Each,141.84,98.04,SUP-038,2020-06-01,1
+PRD-00832,Tamimi Pens & Pencils Family 174g,Stationery,Pens & Pencils,Tamimi,Box,131.91,90.01,SUP-020,2022-11-26,1
+PRD-00833,Pilot Pens & Pencils Family 906g,Stationery,Pens & Pencils,Pilot,Bottle,3.14,1.94,SUP-032,2023-03-06,0
+PRD-00834,Apple Pens & Pencils Premium 393g,Stationery,Pens & Pencils,Apple,Gram,104.21,80.62,SUP-047,2024-05-12,1
+PRD-00835,Apple Pens & Pencils Organic 219g,Stationery,Pens & Pencils,Apple,KG,131.89,93.72,SUP-004,2023-02-23,1
+PRD-00836,Red Bull Pens & Pencils 642g,Stationery,Pens & Pencils,Red Bull,Box,36.45,20.83,SUP-029,2024-03-25,1
+PRD-00837,Dettol Pens & Pencils Value 760g,Stationery,Pens & Pencils,Dettol,Box,38.34,27.2,SUP-037,2021-01-09,1
+PRD-00838,Al Karamah Pens & Pencils Natural 599g,Stationery,Pens & Pencils,Al Karamah,Liter,108.37,78.69,SUP-029,2018-02-18,1
+PRD-00839,Coca Cola Pens & Pencils Large 787g,Stationery,Pens & Pencils,Coca Cola,Box,62.53,46.6,SUP-051,2023-11-01,1
+PRD-00840,Coca Cola Pens & Pencils Classic 241g,Stationery,Pens & Pencils,Coca Cola,Box,3.14,1.75,SUP-004,2025-07-31,0
+PRD-00841,Al Jazira Office Supplies Family 497g,Stationery,Office Supplies,Al Jazira,KG,137.92,100.38,SUP-035,2020-04-13,1
+PRD-00842,Alpro Office Supplies Value 791g,Stationery,Office Supplies,Alpro,Liter,33.85,18.8,SUP-051,2023-09-18,1
+PRD-00843,3M Office Supplies Gold 719g,Stationery,Office Supplies,3M,Liter,146.65,97.48,SUP-048,2025-02-26,1
+PRD-00844,Carrefour Office Supplies Premium 972g,Stationery,Office Supplies,Carrefour,Gram,33.01,23.02,SUP-017,2024-10-20,1
+PRD-00845,Pilot Office Supplies 236g,Stationery,Office Supplies,Pilot,Each,66.64,45.27,SUP-024,2022-09-14,1
+PRD-00846,Al Watania Office Supplies Premium 216g,Stationery,Office Supplies,Al Watania,Bottle,107.99,63.01,SUP-040,2022-02-22,1
+PRD-00847,Faber-Castell Office Supplies Large 483g,Stationery,Office Supplies,Faber-Castell,Each,85.68,63.38,SUP-001,2018-11-14,1
+PRD-00848,Pilot Office Supplies Natural 212g,Stationery,Office Supplies,Pilot,Can,51.44,32.37,SUP-034,2025-03-15,1
+PRD-00849,Al Rifai Office Supplies Large 636g,Stationery,Office Supplies,Al Rifai,Each,131.97,81.26,SUP-041,2018-10-07,1
+PRD-00850,Kit Kat Office Supplies Large 165g,Stationery,Office Supplies,Kit Kat,Gram,11.56,7.44,SUP-033,2021-10-24,1
+PRD-00851,Tamimi Office Supplies Organic 295g,Stationery,Office Supplies,Tamimi,Pack,34,20.85,SUP-042,2020-06-08,1
+PRD-00852,Snickers Office Supplies Organic 617g,Stationery,Office Supplies,Snickers,Each,70.07,41.71,SUP-040,2025-03-03,1
+PRD-00853,KDD Office Supplies Gold 425g,Stationery,Office Supplies,KDD,Liter,138.52,85.17,SUP-008,2023-06-18,1
+PRD-00854,Sadia Office Supplies Classic 722g,Stationery,Office Supplies,Sadia,Each,41.18,24.11,SUP-030,2025-05-15,1
+PRD-00855,P&G Office Supplies Gold 810g,Stationery,Office Supplies,P&G,Bottle,134.88,89.19,SUP-007,2022-11-21,1
+PRD-00856,KDD Office Supplies Natural 534g,Stationery,Office Supplies,KDD,Liter,56.46,32.52,SUP-037,2024-05-28,1
+PRD-00857,Huggies Office Supplies Value 464g,Stationery,Office Supplies,Huggies,Bottle,125.16,87.95,SUP-011,2022-08-23,1
+PRD-00858,Anker School Supplies Organic 985g,Stationery,School Supplies,Anker,Each,8.65,5.42,SUP-035,2020-04-29,1
+PRD-00859,Coca Cola School Supplies Gold 168g,Stationery,School Supplies,Coca Cola,Gram,40.2,26.01,SUP-029,2019-09-07,0
+PRD-00860,Pringles School Supplies Large 353g,Stationery,School Supplies,Pringles,Box,38.92,23.93,SUP-025,2022-06-28,1
+PRD-00861,KDD School Supplies Value 443g,Stationery,School Supplies,KDD,Each,71.55,40.45,SUP-022,2024-01-19,1
+PRD-00862,Staedtler School Supplies Gold 596g,Stationery,School Supplies,Staedtler,Bottle,65.24,35.95,SUP-050,2020-04-09,1
+PRD-00863,Aquafina School Supplies Organic 309g,Stationery,School Supplies,Aquafina,Box,118.83,89.98,SUP-030,2020-01-03,1
+PRD-00864,Alpro School Supplies 673g,Stationery,School Supplies,Alpro,Bottle,59.18,36.02,SUP-005,2025-02-26,1
+PRD-00865,Pampers School Supplies Premium 268g,Stationery,School Supplies,Pampers,Gram,111.45,64.52,SUP-034,2022-02-27,1
+PRD-00866,Nestle School Supplies Large 104g,Stationery,School Supplies,Nestle,Can,18.21,13.44,SUP-001,2024-01-02,0
+PRD-00867,Staedtler School Supplies Premium 754g,Stationery,School Supplies,Staedtler,Can,72.11,52.36,SUP-015,2024-03-25,1
+PRD-00868,3M School Supplies Value 580g,Stationery,School Supplies,3M,Can,73.86,56.25,SUP-049,2019-04-20,1
+PRD-00869,Logitech School Supplies Small 243g,Stationery,School Supplies,Logitech,Gram,114.59,66.41,SUP-047,2023-05-24,0
+PRD-00870,Faber-Castell School Supplies Premium 898g,Stationery,School Supplies,Faber-Castell,Each,60.02,33.13,SUP-006,2019-08-23,1
+PRD-00871,Nadec School Supplies Small 244g,Stationery,School Supplies,Nadec,Bottle,124.52,76.94,SUP-019,2023-06-26,1
+PRD-00872,Logitech School Supplies Premium 457g,Stationery,School Supplies,Logitech,Can,102.48,76.37,SUP-045,2025-06-05,1
+PRD-00873,Al Ghurair School Supplies 954g,Stationery,School Supplies,Al Ghurair,Liter,16.36,12.51,SUP-044,2024-07-02,0
+PRD-00874,Al Faisaliah School Supplies Natural 473g,Stationery,School Supplies,Al Faisaliah,Liter,72.52,45.72,SUP-026,2022-07-08,1
+PRD-00875,Johnson & Johnson School Supplies 724g,Stationery,School Supplies,Johnson & Johnson,Liter,46.16,30.95,SUP-016,2020-03-08,1
+PRD-00876,Dettol School Supplies Premium 729g,Stationery,School Supplies,Dettol,Gram,41.74,24.42,SUP-019,2019-07-21,1
+PRD-00877,Tamimi School Supplies Large 899g,Stationery,School Supplies,Tamimi,Can,107.62,74.64,SUP-045,2020-01-17,1
+PRD-00878,Samsung School Supplies Classic 878g,Stationery,School Supplies,Samsung,KG,15.52,9.41,SUP-040,2018-02-24,1
+PRD-00879,Saudi Dairy School Supplies Small 589g,Stationery,School Supplies,Saudi Dairy,Bottle,55.87,36.14,SUP-049,2019-04-13,1
+PRD-00880,Mazola School Supplies 217g,Stationery,School Supplies,Mazola,Pack,118.82,90.16,SUP-022,2018-06-02,1
+PRD-00881,Al Karamah Vitamins Family 529g,Health & Wellness,Vitamins,Al Karamah,Each,61.05,34.01,SUP-003,2019-07-06,1
+PRD-00882,Doritos Vitamins Large 785g,Health & Wellness,Vitamins,Doritos,KG,85.18,63.4,SUP-022,2024-09-14,1
+PRD-00883,Anker Vitamins Large 325g,Health & Wellness,Vitamins,Anker,Gram,84.56,52.13,SUP-033,2020-04-27,1
+PRD-00884,Mazola Vitamins 291g,Health & Wellness,Vitamins,Mazola,Pack,134.43,82.71,SUP-026,2023-04-18,0
+PRD-00885,Lusine Vitamins Natural 348g,Health & Wellness,Vitamins,Lusine,Liter,123.18,95.65,SUP-025,2021-03-07,1
+PRD-00886,Pampers Vitamins Large 193g,Health & Wellness,Vitamins,Pampers,Can,25.48,18.07,SUP-043,2022-07-28,1
+PRD-00887,Pringles Vitamins Gold 245g,Health & Wellness,Vitamins,Pringles,KG,24.07,15.41,SUP-022,2020-12-16,0
+PRD-00888,Pilot Vitamins Value 785g,Health & Wellness,Vitamins,Pilot,Box,27.05,16.68,SUP-003,2018-05-21,1
+PRD-00889,Saudi Dairy Vitamins Premium 188g,Health & Wellness,Vitamins,Saudi Dairy,KG,83.05,58.41,SUP-025,2018-03-13,1
+PRD-00890,Tyson Supplements Organic 386g,Health & Wellness,Supplements,Tyson,Bottle,6.05,4.47,SUP-032,2019-04-15,1
+PRD-00891,Binzagr Supplements Premium 760g,Health & Wellness,Supplements,Binzagr,Bottle,32.43,25.21,SUP-021,2022-09-20,1
+PRD-00892,Unilever Supplements Large 931g,Health & Wellness,Supplements,Unilever,Each,90.75,51.78,SUP-004,2018-08-21,1
+PRD-00893,Tyson Supplements 702g,Health & Wellness,Supplements,Tyson,Bottle,10.23,5.78,SUP-029,2023-11-05,1
+PRD-00894,Danone Supplements Small 974g,Health & Wellness,Supplements,Danone,Each,3.02,1.78,SUP-042,2020-08-02,1
+PRD-00895,Carrefour Supplements Classic 443g,Health & Wellness,Supplements,Carrefour,Box,142.9,99.14,SUP-004,2024-12-21,1
+PRD-00896,Nadec Supplements Large 748g,Health & Wellness,Supplements,Nadec,Can,138.71,89.6,SUP-006,2020-09-20,1
+PRD-00897,P&G Supplements Premium 624g,Health & Wellness,Supplements,P&G,Pack,27.63,16.09,SUP-009,2025-07-25,1
+PRD-00898,Al Osra Supplements 410g,Health & Wellness,Supplements,Al Osra,Can,12.35,9.33,SUP-017,2023-02-19,1
+PRD-00899,Anker Supplements Large 175g,Health & Wellness,Supplements,Anker,Pack,53.75,30.01,SUP-023,2025-08-20,0
+PRD-00900,Tamimi First Aid Large 108g,Health & Wellness,First Aid,Tamimi,Liter,117.51,78.07,SUP-013,2024-10-12,1
+PRD-00901,Al Rajhi First Aid Family 196g,Health & Wellness,First Aid,Al Rajhi,Pack,76.82,55.45,SUP-009,2025-06-26,1
+PRD-00902,Local Farm First Aid Natural 851g,Health & Wellness,First Aid,Local Farm,Gram,36.84,25.75,SUP-049,2019-03-02,1
+PRD-00903,Pampers First Aid Value 806g,Health & Wellness,First Aid,Pampers,Pack,74.16,49.47,SUP-031,2022-06-19,1
+PRD-00904,Al Muhaidib First Aid Large 518g,Health & Wellness,First Aid,Al Muhaidib,Bottle,80.79,52.47,SUP-034,2025-06-16,1
+PRD-00905,Saudi Dairy First Aid Natural 894g,Health & Wellness,First Aid,Saudi Dairy,Box,15.45,10.13,SUP-026,2019-12-06,0
+PRD-00906,Dasani First Aid Natural 545g,Health & Wellness,First Aid,Dasani,Can,29.65,19.82,SUP-045,2023-10-10,1
+PRD-00907,Al Watania First Aid Large 558g,Health & Wellness,First Aid,Al Watania,Liter,105.64,60.18,SUP-026,2021-08-23,1
+PRD-00908,Pepsi First Aid 792g,Health & Wellness,First Aid,Pepsi,Each,83.67,54.94,SUP-038,2024-07-18,1
+PRD-00909,Pampers First Aid Gold 208g,Health & Wellness,First Aid,Pampers,Box,49.4,30.85,SUP-040,2023-05-07,1
+PRD-00910,Quaker First Aid Organic 717g,Health & Wellness,First Aid,Quaker,Can,24.96,15.91,SUP-002,2024-02-27,1
+PRD-00911,Faber-Castell First Aid Gold 125g,Health & Wellness,First Aid,Faber-Castell,Gram,84.66,47.13,SUP-005,2021-04-06,1
+PRD-00912,Dettol First Aid Natural 437g,Health & Wellness,First Aid,Dettol,Can,67.52,45.7,SUP-013,2024-05-30,1
+PRD-00913,Huggies First Aid Organic 988g,Health & Wellness,First Aid,Huggies,Liter,23.01,14.51,SUP-006,2023-12-29,0
+PRD-00914,Lusine OTC Medicines Small 638g,Health & Wellness,OTC Medicines,Lusine,Liter,98.12,54.85,SUP-042,2022-01-18,1
+PRD-00915,Almarai OTC Medicines Family 368g,Health & Wellness,OTC Medicines,Almarai,KG,108.46,74.48,SUP-041,2020-01-12,0
+PRD-00916,3M OTC Medicines Value 457g,Health & Wellness,OTC Medicines,3M,Can,68.46,53.28,SUP-041,2020-08-12,1
+PRD-00917,Dettol OTC Medicines Large 118g,Health & Wellness,OTC Medicines,Dettol,Pack,23.34,13.38,SUP-010,2021-10-24,1
+PRD-00918,Al Karamah OTC Medicines Natural 955g,Health & Wellness,OTC Medicines,Al Karamah,Each,97.45,64.66,SUP-011,2024-05-30,1
+PRD-00919,P&G OTC Medicines 452g,Health & Wellness,OTC Medicines,P&G,Box,100.08,77.96,SUP-011,2020-07-19,1
+PRD-00920,Johnson & Johnson OTC Medicines Classic 749g,Health & Wellness,OTC Medicines,Johnson & Johnson,Each,91.7,58.54,SUP-003,2018-02-25,1
+PRD-00921,Al Faisaliah OTC Medicines Family 931g,Health & Wellness,OTC Medicines,Al Faisaliah,KG,31.35,22.91,SUP-025,2025-04-21,1
+PRD-00922,Al Ain OTC Medicines 562g,Health & Wellness,OTC Medicines,Al Ain,Gram,40.79,24.68,SUP-051,2025-02-14,1
+PRD-00923,Saudi Dairy OTC Medicines Organic 606g,Health & Wellness,OTC Medicines,Saudi Dairy,Pack,105.35,77.49,SUP-049,2021-02-08,1
+PRD-00924,P&G OTC Medicines 476g,Health & Wellness,OTC Medicines,P&G,Liter,142.04,100.28,SUP-032,2020-11-13,1
+PRD-00925,Danone OTC Medicines Value 907g,Health & Wellness,OTC Medicines,Danone,Bottle,58.61,37.11,SUP-020,2020-11-02,1
+PRD-00926,Monster OTC Medicines Classic 387g,Health & Wellness,OTC Medicines,Monster,Liter,40.02,28.04,SUP-036,2024-01-07,1
+PRD-00927,Doritos OTC Medicines Gold 303g,Health & Wellness,OTC Medicines,Doritos,KG,139.3,92.85,SUP-051,2021-04-30,0
+PRD-00928,Activia OTC Medicines Organic 770g,Health & Wellness,OTC Medicines,Activia,Liter,128.78,89.49,SUP-027,2023-07-19,1
+PRD-00929,Nestle OTC Medicines Small 630g,Health & Wellness,OTC Medicines,Nestle,Gram,146.85,88.89,SUP-002,2025-06-08,1
+PRD-00930,Al Ghurair OTC Medicines Value 104g,Health & Wellness,OTC Medicines,Al Ghurair,KG,56.33,34.14,SUP-050,2025-04-18,1
+PRD-00931,Dettol OTC Medicines Gold 323g,Health & Wellness,OTC Medicines,Dettol,KG,121.12,74.99,SUP-047,2022-10-30,0
+PRD-00932,Carrefour OTC Medicines Gold 132g,Health & Wellness,OTC Medicines,Carrefour,Gram,52.24,29.02,SUP-047,2021-06-05,1
+PRD-00933,Pampers OTC Medicines Premium 710g,Health & Wellness,OTC Medicines,Pampers,Box,11.29,7.59,SUP-026,2023-03-14,1
+PRD-00934,Danone OTC Medicines Premium 568g,Health & Wellness,OTC Medicines,Danone,Bottle,123.85,76.1,SUP-049,2024-10-07,1
+PRD-00935,Al Watania OTC Medicines Value 557g,Health & Wellness,OTC Medicines,Al Watania,Bottle,9.24,7.03,SUP-032,2019-08-05,0
+PRD-00936,Cadbury Rice Organic 782g,Rice & Grains,Rice,Cadbury,Each,96.15,58.23,SUP-002,2018-09-17,1
+PRD-00937,Al Ain Rice Organic 212g,Rice & Grains,Rice,Al Ain,Gram,51.92,29.02,SUP-009,2025-02-18,1
+PRD-00938,Snickers Rice Premium 773g,Rice & Grains,Rice,Snickers,Box,148.89,114.74,SUP-007,2021-06-30,1
+PRD-00939,Lay's Rice Classic 242g,Rice & Grains,Rice,Lay's,Can,35.98,24.73,SUP-050,2025-09-01,1
+PRD-00940,Huggies Rice Value 735g,Rice & Grains,Rice,Huggies,Gram,35.51,21.07,SUP-052,2019-02-16,1
+PRD-00941,Aquafina Rice Organic 689g,Rice & Grains,Rice,Aquafina,Each,37.75,23.15,SUP-011,2022-07-01,1
+PRD-00942,Pepsi Rice Small 252g,Rice & Grains,Rice,Pepsi,Liter,133.03,98.88,SUP-025,2020-01-21,1
+PRD-00943,Al Foah Rice Gold 472g,Rice & Grains,Rice,Al Foah,Can,104.56,62.88,SUP-013,2024-03-19,1
+PRD-00944,Doritos Rice Classic 365g,Rice & Grains,Rice,Doritos,Liter,45.65,35.36,SUP-052,2024-10-08,1
+PRD-00945,Tyson Rice Classic 180g,Rice & Grains,Rice,Tyson,Can,36.74,25.83,SUP-020,2021-11-10,1
+PRD-00946,Oreo Rice Large 805g,Rice & Grains,Rice,Oreo,Can,113.98,81,SUP-049,2022-09-08,1
+PRD-00947,Al Ghurair Rice Classic 525g,Rice & Grains,Rice,Al Ghurair,Can,30.01,17.88,SUP-029,2020-10-21,1
+PRD-00948,KDD Rice Family 966g,Rice & Grains,Rice,KDD,Pack,149.66,105.3,SUP-031,2022-03-15,1
+PRD-00949,Danone Rice Family 879g,Rice & Grains,Rice,Danone,Liter,108.98,66.39,SUP-007,2019-12-13,1
+PRD-00950,Saudi Dairy Rice Gold 221g,Rice & Grains,Rice,Saudi Dairy,Can,78.27,50.11,SUP-001,2024-08-10,0
+PRD-00951,Staedtler Rice 339g,Rice & Grains,Rice,Staedtler,Pack,11.23,7.74,SUP-028,2020-09-12,1
+PRD-00952,Colgate Rice 712g,Rice & Grains,Rice,Colgate,Gram,127,97.59,SUP-028,2023-07-17,1
+PRD-00953,Snickers Rice Organic 838g,Rice & Grains,Rice,Snickers,Box,52,39.58,SUP-009,2025-08-05,1
+PRD-00954,Monster Pasta Classic 277g,Rice & Grains,Pasta,Monster,Bottle,102.31,62.87,SUP-015,2023-12-16,0
+PRD-00955,Al Osra Pasta Small 614g,Rice & Grains,Pasta,Al Osra,Gram,143.7,107.14,SUP-006,2025-05-17,1
+PRD-00956,Binzagr Pasta Family 478g,Rice & Grains,Pasta,Binzagr,Bottle,24.96,16.03,SUP-024,2018-07-09,1
+PRD-00957,Sadia Pasta Large 209g,Rice & Grains,Pasta,Sadia,Bottle,28.42,17.3,SUP-031,2022-01-21,1
+PRD-00958,Kellogg's Pasta Family 720g,Rice & Grains,Pasta,Kellogg's,Pack,58.34,33.57,SUP-022,2021-04-14,0
+PRD-00959,Saudi Dairy Pasta Small 298g,Rice & Grains,Pasta,Saudi Dairy,Pack,112.9,75.63,SUP-046,2020-04-11,1
+PRD-00960,Nescafe Pasta 481g,Rice & Grains,Pasta,Nescafe,Bottle,66.79,50.8,SUP-006,2018-06-06,1
+PRD-00961,Al Muhaidib Pasta Value 595g,Rice & Grains,Pasta,Al Muhaidib,Pack,147.25,103.96,SUP-007,2021-08-06,1
+PRD-00962,Johnson & Johnson Pasta 217g,Rice & Grains,Pasta,Johnson & Johnson,Can,24.19,16.67,SUP-025,2021-10-23,1
+PRD-00963,Faber-Castell Pasta Family 621g,Rice & Grains,Pasta,Faber-Castell,Pack,69.16,51.43,SUP-010,2024-11-21,1
+PRD-00964,Activia Pasta Gold 600g,Rice & Grains,Pasta,Activia,Bottle,10.4,7.68,SUP-010,2019-10-04,1
+PRD-00965,Tyson Pasta Natural 680g,Rice & Grains,Pasta,Tyson,Pack,83.62,61.12,SUP-029,2020-06-11,1
+PRD-00966,Nestle Pasta Classic 891g,Rice & Grains,Pasta,Nestle,Each,117.26,74.17,SUP-037,2023-10-06,1
+PRD-00967,Mazola Pasta Small 454g,Rice & Grains,Pasta,Mazola,Pack,2.64,1.68,SUP-013,2018-08-20,1
+PRD-00968,Cadbury Pasta Premium 928g,Rice & Grains,Pasta,Cadbury,Box,49.37,27.22,SUP-050,2025-03-31,1
+PRD-00969,Activia Pasta Large 673g,Rice & Grains,Pasta,Activia,Can,121.52,82.35,SUP-003,2020-05-22,1
+PRD-00970,Al Faisaliah Pasta Premium 274g,Rice & Grains,Pasta,Al Faisaliah,Gram,53.57,35.66,SUP-029,2022-06-13,1
+PRD-00971,Nescafe Pasta Premium 378g,Rice & Grains,Pasta,Nescafe,Each,98.16,67.64,SUP-047,2020-04-22,1
+PRD-00972,Johnson & Johnson Pasta Value 795g,Rice & Grains,Pasta,Johnson & Johnson,Gram,103.51,64.02,SUP-005,2024-01-07,1
+PRD-00973,Nescafe Pasta Gold 617g,Rice & Grains,Pasta,Nescafe,Pack,118.85,66.59,SUP-016,2024-02-29,1
+PRD-00974,Kellogg's Pasta Premium 992g,Rice & Grains,Pasta,Kellogg's,Gram,27.95,16.02,SUP-016,2021-02-24,1
+PRD-00975,Nadec Pasta Small 263g,Rice & Grains,Pasta,Nadec,Box,17.33,9.54,SUP-016,2024-01-03,0
+PRD-00976,Pringles Flour Family 132g,Rice & Grains,Flour,Pringles,Bottle,119.92,84.85,SUP-005,2025-07-15,1
+PRD-00977,Al Osra Flour Natural 327g,Rice & Grains,Flour,Al Osra,Liter,20.43,15.19,SUP-016,2024-01-11,0
+PRD-00978,Tamimi Flour Classic 764g,Rice & Grains,Flour,Tamimi,Can,100.97,78.53,SUP-048,2022-04-08,0
+PRD-00979,Almarai Flour Gold 706g,Rice & Grains,Flour,Almarai,KG,71.21,49.78,SUP-028,2023-05-29,1
+PRD-00980,Al Safi Flour Organic 232g,Rice & Grains,Flour,Al Safi,Pack,8.8,5.36,SUP-046,2019-02-13,1
+PRD-00981,Al Ghurair Flour Value 216g,Rice & Grains,Flour,Al Ghurair,Liter,137.22,83.09,SUP-036,2022-02-04,1
+PRD-00982,Colgate Flour Gold 958g,Rice & Grains,Flour,Colgate,Gram,99,56.82,SUP-014,2023-02-23,1
+PRD-00983,Al Osra Flour Classic 899g,Rice & Grains,Flour,Al Osra,Pack,57.27,39.69,SUP-052,2025-03-17,1
+PRD-00984,Pringles Flour Organic 530g,Rice & Grains,Flour,Pringles,Can,40.78,23.76,SUP-026,2021-11-10,1
+PRD-00985,Unilever Flour 290g,Rice & Grains,Flour,Unilever,Can,123.85,80.3,SUP-006,2020-08-25,1
+PRD-00986,Kellogg's Flour Classic 804g,Rice & Grains,Flour,Kellogg's,Liter,110.82,80.07,SUP-028,2020-09-12,0
+PRD-00987,Doritos Flour Family 859g,Rice & Grains,Flour,Doritos,Liter,61.62,44.73,SUP-025,2022-12-10,0
+PRD-00988,Monster Flour Organic 472g,Rice & Grains,Flour,Monster,Can,141.14,84.36,SUP-007,2020-03-12,0
+PRD-00989,Al Ghurair Cereals Premium 269g,Rice & Grains,Cereals,Al Ghurair,Box,112.75,67.65,SUP-042,2021-03-28,1
+PRD-00990,Al Karamah Cereals Natural 490g,Rice & Grains,Cereals,Al Karamah,Box,47.03,31.21,SUP-014,2020-06-13,1
+PRD-00991,Kit Kat Cereals Classic 173g,Rice & Grains,Cereals,Kit Kat,Can,142.84,92.23,SUP-007,2021-05-06,1
+PRD-00992,Al Faisaliah Cereals Organic 290g,Rice & Grains,Cereals,Al Faisaliah,KG,101.46,67.74,SUP-008,2024-09-27,1
+PRD-00993,Al Rifai Cereals Large 525g,Rice & Grains,Cereals,Al Rifai,KG,111.23,73.44,SUP-017,2022-05-10,1
+PRD-00994,Unilever Cereals 496g,Rice & Grains,Cereals,Unilever,Can,81.95,62.54,SUP-014,2022-03-26,0
+PRD-00995,Sadia Cereals Large 103g,Rice & Grains,Cereals,Sadia,Each,117.46,72.12,SUP-015,2023-06-16,0
+PRD-00996,Faber-Castell Cereals Natural 846g,Rice & Grains,Cereals,Faber-Castell,Bottle,97,68.75,SUP-006,2021-11-12,0
+PRD-00997,Pepsi Cereals Family 898g,Rice & Grains,Cereals,Pepsi,Pack,112.66,79.1,SUP-011,2023-05-31,1
+PRD-00998,Unilever Cereals Large 386g,Rice & Grains,Cereals,Unilever,Pack,51.15,28.65,SUP-017,2018-07-24,1
+PRD-00999,Activia Cereals Family 692g,Rice & Grains,Cereals,Activia,Pack,140.65,80.01,SUP-029,2019-11-29,1
+PRD-01000,Al Jazira Cereals Value 227g,Rice & Grains,Cereals,Al Jazira,Bottle,25.64,14.22,SUP-035,2019-04-13,1
+PRD-01001,Carrefour Cereals Natural 767g,Rice & Grains,Cereals,Carrefour,Each,88.55,65.97,SUP-031,2021-10-02,1
+PRD-01002,Al Osra Cereals Gold 771g,Rice & Grains,Cereals,Al Osra,KG,92.89,68.88,SUP-031,2021-03-12,0
+PRD-01003,Al Rajhi Cereals 158g,Rice & Grains,Cereals,Al Rajhi,Gram,68.7,40.33,SUP-009,2019-03-13,1
+PRD-01004,Al Foah Cereals Gold 974g,Rice & Grains,Cereals,Al Foah,Liter,18.78,13.74,SUP-027,2021-12-28,0
+PRD-01005,Activia Cereals 647g,Rice & Grains,Cereals,Activia,Pack,16.5,12.85,SUP-001,2022-11-08,1
+PRD-01006,Mazola Cereals Organic 516g,Rice & Grains,Cereals,Mazola,Bottle,33.66,19.25,SUP-027,2020-03-30,1
+PRD-01007,Dasani Cereals Organic 952g,Rice & Grains,Cereals,Dasani,Gram,90.47,59.09,SUP-012,2022-08-25,1
+PRD-01008,Johnson & Johnson Cereals 520g,Rice & Grains,Cereals,Johnson & Johnson,Bottle,90.51,59.94,SUP-036,2023-09-09,1
+PRD-01009,Lusine Cereals Large 638g,Rice & Grains,Cereals,Lusine,Each,87.16,55.8,SUP-011,2018-07-13,1
+PRD-01010,Alpro Cereals Premium 611g,Rice & Grains,Cereals,Alpro,Pack,33.06,21.42,SUP-032,2021-11-26,1
+PRD-01011,Colgate Cereals Family 217g,Rice & Grains,Cereals,Colgate,Liter,103.28,62.07,SUP-045,2020-03-07,1
+PRD-01012,Faber-Castell Cereals Large 178g,Rice & Grains,Cereals,Faber-Castell,Can,20.28,14.02,SUP-034,2021-09-11,1
+PRD-01013,Alpro Legumes Small 805g,Rice & Grains,Legumes,Alpro,Each,127.56,77.28,SUP-044,2019-11-01,0
+PRD-01014,Doritos Legumes Organic 628g,Rice & Grains,Legumes,Doritos,Gram,113.09,75.3,SUP-022,2022-09-21,1
+PRD-01015,Tamimi Legumes 661g,Rice & Grains,Legumes,Tamimi,Pack,90.66,53.06,SUP-018,2020-06-11,0
+PRD-01016,Al Faisaliah Legumes Organic 895g,Rice & Grains,Legumes,Al Faisaliah,Gram,25.23,14.49,SUP-052,2021-01-20,1
+PRD-01017,Samsung Legumes Family 430g,Rice & Grains,Legumes,Samsung,Pack,91.03,63.24,SUP-017,2023-07-15,1
+PRD-01018,Pilot Legumes Classic 938g,Rice & Grains,Legumes,Pilot,Box,28.98,20.65,SUP-026,2018-06-02,1
+PRD-01019,Carrefour Legumes Large 685g,Rice & Grains,Legumes,Carrefour,KG,82.44,52.13,SUP-007,2020-05-01,0
+PRD-01020,Lipton Legumes Classic 421g,Rice & Grains,Legumes,Lipton,Liter,49.46,29.68,SUP-004,2024-10-06,1
+PRD-01021,Almarai Legumes Value 712g,Rice & Grains,Legumes,Almarai,Liter,134.48,90.09,SUP-048,2021-10-15,0
+PRD-01022,Binzagr Cooking Oil Small 471g,Oils & Sauces,Cooking Oil,Binzagr,Can,89.1,51.78,SUP-018,2018-05-12,0
+PRD-01023,Activia Cooking Oil Family 819g,Oils & Sauces,Cooking Oil,Activia,Pack,92.66,60.79,SUP-041,2020-02-10,1
+PRD-01024,Binzagr Cooking Oil Classic 528g,Oils & Sauces,Cooking Oil,Binzagr,Liter,141.99,94.69,SUP-005,2020-04-24,1
+PRD-01025,Al Rajhi Cooking Oil Natural 563g,Oils & Sauces,Cooking Oil,Al Rajhi,Each,71.89,47.45,SUP-009,2019-05-11,1
+PRD-01026,Al Muhaidib Cooking Oil Small 111g,Oils & Sauces,Cooking Oil,Al Muhaidib,Box,35.89,22.26,SUP-042,2019-12-05,1
+PRD-01027,Activia Cooking Oil Small 196g,Oils & Sauces,Cooking Oil,Activia,Bottle,128.02,94.28,SUP-004,2022-08-14,1
+PRD-01028,Pepsi Cooking Oil Natural 420g,Oils & Sauces,Cooking Oil,Pepsi,KG,110.69,83.84,SUP-007,2024-02-08,1
+PRD-01029,Binzagr Cooking Oil Small 374g,Oils & Sauces,Cooking Oil,Binzagr,Box,119.16,73.66,SUP-036,2021-01-13,1
+PRD-01030,Al Muhaidib Cooking Oil Premium 261g,Oils & Sauces,Cooking Oil,Al Muhaidib,KG,147.82,89.62,SUP-049,2022-02-15,1
+PRD-01031,Kellogg's Olive Oil Classic 220g,Oils & Sauces,Olive Oil,Kellogg's,Liter,63.17,44.29,SUP-022,2022-09-03,1
+PRD-01032,Almarai Olive Oil 391g,Oils & Sauces,Olive Oil,Almarai,Pack,92.87,57.68,SUP-023,2020-02-28,0
+PRD-01033,Al Rifai Olive Oil Classic 297g,Oils & Sauces,Olive Oil,Al Rifai,Can,93.96,52.52,SUP-020,2025-02-19,1
+PRD-01034,Snickers Olive Oil Classic 800g,Oils & Sauces,Olive Oil,Snickers,Each,126.22,84.19,SUP-012,2022-04-29,1
+PRD-01035,Al Muhaidib Olive Oil Classic 127g,Oils & Sauces,Olive Oil,Al Muhaidib,Bottle,135.52,84.46,SUP-021,2024-11-30,1
+PRD-01036,Pepsi Olive Oil 279g,Oils & Sauces,Olive Oil,Pepsi,Each,113.03,78.65,SUP-012,2020-09-17,1
+PRD-01037,Unilever Olive Oil Natural 697g,Oils & Sauces,Olive Oil,Unilever,Liter,107.39,73.88,SUP-050,2019-11-19,0
+PRD-01038,Doritos Olive Oil Gold 492g,Oils & Sauces,Olive Oil,Doritos,Pack,36.97,25.17,SUP-006,2018-09-25,0
+PRD-01039,Colgate Olive Oil 793g,Oils & Sauces,Olive Oil,Colgate,Each,113.79,84.46,SUP-051,2020-08-02,1
+PRD-01040,Al Ain Olive Oil Family 401g,Oils & Sauces,Olive Oil,Al Ain,Each,43.87,27.95,SUP-044,2019-12-29,0
+PRD-01041,Activia Olive Oil Natural 295g,Oils & Sauces,Olive Oil,Activia,Bottle,30.2,22.21,SUP-044,2023-10-21,0
+PRD-01042,Local Farm Olive Oil Large 363g,Oils & Sauces,Olive Oil,Local Farm,Bottle,36.44,24,SUP-007,2023-11-28,1
+PRD-01043,Nestle Olive Oil Small 849g,Oils & Sauces,Olive Oil,Nestle,Each,135.62,90.43,SUP-050,2022-01-22,1
+PRD-01044,Pepsi Olive Oil Gold 280g,Oils & Sauces,Olive Oil,Pepsi,Liter,44.43,34.08,SUP-009,2024-03-21,1
+PRD-01045,Lay's Olive Oil Small 309g,Oils & Sauces,Olive Oil,Lay's,Gram,5.57,4.12,SUP-002,2024-06-23,1
+PRD-01046,Dasani Olive Oil Gold 748g,Oils & Sauces,Olive Oil,Dasani,Gram,146.18,100.87,SUP-031,2025-01-30,1
+PRD-01047,Nescafe Olive Oil 994g,Oils & Sauces,Olive Oil,Nescafe,Liter,86.47,53.19,SUP-014,2021-08-14,0
+PRD-01048,Samsung Ketchup Natural 436g,Oils & Sauces,Ketchup,Samsung,Each,129.63,79.01,SUP-008,2024-02-29,0
+PRD-01049,Coca Cola Ketchup 917g,Oils & Sauces,Ketchup,Coca Cola,Gram,3.17,1.94,SUP-036,2023-09-15,1
+PRD-01050,Red Bull Ketchup Small 857g,Oils & Sauces,Ketchup,Red Bull,Liter,140.35,98.72,SUP-034,2022-11-12,1
+PRD-01051,Kellogg's Ketchup 693g,Oils & Sauces,Ketchup,Kellogg's,KG,89.38,58.55,SUP-027,2019-03-13,1
+PRD-01052,Carrefour Ketchup Premium 993g,Oils & Sauces,Ketchup,Carrefour,Liter,128.37,87.85,SUP-006,2020-12-04,0
+PRD-01053,Kellogg's Ketchup Classic 126g,Oils & Sauces,Ketchup,Kellogg's,Bottle,136.46,100.11,SUP-017,2023-01-10,1
+PRD-01054,Lay's Ketchup Organic 528g,Oils & Sauces,Ketchup,Lay's,Liter,60.35,43.3,SUP-001,2025-04-27,1
+PRD-01055,Al Karamah Ketchup Gold 532g,Oils & Sauces,Ketchup,Al Karamah,Each,82.57,58.45,SUP-025,2023-07-06,1
+PRD-01056,Lipton Ketchup Family 309g,Oils & Sauces,Ketchup,Lipton,KG,85.54,60.71,SUP-024,2024-11-06,1
+PRD-01057,Al Watania Ketchup Premium 384g,Oils & Sauces,Ketchup,Al Watania,Gram,78.78,57.09,SUP-002,2025-03-29,1
+PRD-01058,Colgate Ketchup 909g,Oils & Sauces,Ketchup,Colgate,Bottle,62.82,41.55,SUP-020,2018-07-06,1
+PRD-01059,Pilot Mayonnaise Gold 545g,Oils & Sauces,Mayonnaise,Pilot,Pack,28.75,18.93,SUP-045,2024-01-09,0
+PRD-01060,Dasani Mayonnaise Value 227g,Oils & Sauces,Mayonnaise,Dasani,KG,135.18,104.16,SUP-009,2021-09-15,1
+PRD-01061,Anker Mayonnaise Large 651g,Oils & Sauces,Mayonnaise,Anker,Gram,103.17,77.42,SUP-032,2022-10-19,1
+PRD-01062,Alpro Mayonnaise Small 626g,Oils & Sauces,Mayonnaise,Alpro,Pack,58.02,40.31,SUP-049,2020-10-18,0
+PRD-01063,Binzagr Mayonnaise Large 876g,Oils & Sauces,Mayonnaise,Binzagr,Liter,44.91,33.58,SUP-004,2025-07-12,1
+PRD-01064,Coca Cola Mayonnaise Organic 326g,Oils & Sauces,Mayonnaise,Coca Cola,Each,50.15,35.89,SUP-006,2018-03-31,1
+PRD-01065,Apple Mayonnaise Value 662g,Oils & Sauces,Mayonnaise,Apple,Liter,115.21,79.29,SUP-006,2024-11-05,1
+PRD-01066,Almarai Mayonnaise Gold 980g,Oils & Sauces,Mayonnaise,Almarai,Gram,114.47,66.84,SUP-046,2023-06-29,1
+PRD-01067,Doritos Mayonnaise Value 149g,Oils & Sauces,Mayonnaise,Doritos,Bottle,79.82,51.01,SUP-027,2019-08-24,1
+PRD-01068,3M Mayonnaise Natural 320g,Oils & Sauces,Mayonnaise,3M,KG,31.16,19.32,SUP-019,2020-05-15,0
+PRD-01069,Lipton Mayonnaise 486g,Oils & Sauces,Mayonnaise,Lipton,Bottle,61.94,37.38,SUP-035,2018-10-22,1
+PRD-01070,Coca Cola Mayonnaise Value 795g,Oils & Sauces,Mayonnaise,Coca Cola,Liter,35.3,20.14,SUP-046,2018-07-15,1
+PRD-01071,Logitech Mayonnaise Classic 557g,Oils & Sauces,Mayonnaise,Logitech,KG,34.93,21.46,SUP-023,2023-03-04,1
+PRD-01072,Logitech Mayonnaise Natural 239g,Oils & Sauces,Mayonnaise,Logitech,Liter,65.63,39.79,SUP-026,2022-12-26,0
+PRD-01073,Oreo Mayonnaise Gold 728g,Oils & Sauces,Mayonnaise,Oreo,Can,105.25,77.59,SUP-017,2023-07-24,1
+PRD-01074,Al Rajhi Mayonnaise Small 765g,Oils & Sauces,Mayonnaise,Al Rajhi,Bottle,42.71,32.73,SUP-033,2021-10-01,1
+PRD-01075,Apple Spices Value 906g,Oils & Sauces,Spices,Apple,KG,30.56,22.98,SUP-002,2020-09-10,1
+PRD-01076,Unilever Spices Gold 586g,Oils & Sauces,Spices,Unilever,KG,71.2,39.57,SUP-010,2018-04-03,1
+PRD-01077,Johnson & Johnson Spices Classic 415g,Oils & Sauces,Spices,Johnson & Johnson,Can,71.42,45.04,SUP-020,2018-12-28,1
+PRD-01078,Oreo Spices Large 767g,Oils & Sauces,Spices,Oreo,Bottle,113.77,64.13,SUP-038,2018-08-27,1
+PRD-01079,Binzagr Spices 971g,Oils & Sauces,Spices,Binzagr,KG,108.35,78,SUP-051,2022-08-03,1
+PRD-01080,P&G Spices Gold 253g,Oils & Sauces,Spices,P&G,Bottle,55.17,39.8,SUP-047,2020-12-14,1
+PRD-01081,Nescafe Spices Organic 770g,Oils & Sauces,Spices,Nescafe,Liter,79.99,50.72,SUP-022,2020-01-09,1
+PRD-01082,Anker Spices Natural 540g,Oils & Sauces,Spices,Anker,Each,102.33,71.14,SUP-043,2018-02-25,1
+PRD-01083,Lipton Spices 854g,Oils & Sauces,Spices,Lipton,Pack,71.3,40.37,SUP-048,2020-10-02,1
+PRD-01084,Tyson Spices Organic 944g,Oils & Sauces,Spices,Tyson,Liter,148.47,84.32,SUP-039,2024-09-14,0
+PRD-01085,Al Watania Spices Natural 953g,Oils & Sauces,Spices,Al Watania,Gram,89.76,69.88,SUP-006,2024-02-22,1
+PRD-01086,Tamimi Spices Gold 320g,Oils & Sauces,Spices,Tamimi,Can,133.29,97.45,SUP-018,2022-07-04,1
+PRD-01087,Al Karamah Spices Small 581g,Oils & Sauces,Spices,Al Karamah,Can,48.51,31.42,SUP-006,2023-09-23,1
+PRD-01088,Al Jazira Spices Premium 387g,Oils & Sauces,Spices,Al Jazira,Can,74.31,53.4,SUP-027,2022-06-26,1
+PRD-01089,Sadia Spices 116g,Oils & Sauces,Spices,Sadia,Gram,133.1,95,SUP-024,2022-07-14,1
+PRD-01090,Local Farm Spices Premium 639g,Oils & Sauces,Spices,Local Farm,Pack,88.96,54.58,SUP-011,2020-08-11,1
+PRD-01091,Almarai Spices 821g,Oils & Sauces,Spices,Almarai,Box,110.17,73.17,SUP-019,2018-03-13,1
+PRD-01092,Cadbury Spices Large 738g,Oils & Sauces,Spices,Cadbury,Liter,126.13,74.44,SUP-010,2018-10-02,1
+PRD-01093,Nadec Spices Large 996g,Oils & Sauces,Spices,Nadec,Pack,54.8,36.84,SUP-025,2018-05-13,1
