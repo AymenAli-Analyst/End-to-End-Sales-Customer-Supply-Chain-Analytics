@@ -34,7 +34,8 @@ https://<img width="1164" height="579" alt="image" src="https://github.com/user-
 
 📷 Dashboard Image
 
-https://YOUR_IMAGE_LINK_4
+https://<img width="1168" height="578" alt="image" src="https://github.com/user-attachments/assets/1f7b15ae-d548-41c2-9651-7d0bc7ae0666" />
+
 
 🎯 Business Objectives
 📈 Monitor Sales Performance
