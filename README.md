@@ -20,9 +20,10 @@ https://<img width="1165" height="581" alt="image" src="https://github.com/user-
 
 📷 Dashboard Image
 
-https://YOUR_IMAGE_LINK_2
+https://<img width="1168" height="579" alt="image" src="https://github.com/user-attachments/assets/6fdf7be2-60f9-4df1-8c67-f7d14da268ba" />
 
-🚚 Supply Chain Intelligence
+
+
 
 📷 Dashboard Image
 
