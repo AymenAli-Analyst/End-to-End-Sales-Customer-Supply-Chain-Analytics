@@ -11,9 +11,10 @@ The solution analyzes Sales, Customers, Products, Stores, Suppliers, and Supply 
 
 📷 Dashboard Image
 
-👉 Replace with your image link
 
-https://YOUR_IMAGE_LINK_1
+
+https://<img width="1165" height="581" alt="image" src="https://github.com/user-attachments/assets/6eb46a90-7171-43c0-bf82-98adf0706ce6" />
+
 
 💰 Sales & Operations Analytics
 
