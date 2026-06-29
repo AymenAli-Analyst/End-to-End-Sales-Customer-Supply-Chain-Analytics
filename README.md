@@ -27,9 +27,10 @@ https://<img width="1168" height="579" alt="image" src="https://github.com/user-
 
 📷 Dashboard Image
 
-https://YOUR_IMAGE_LINK_3
+https://<img width="1164" height="579" alt="image" src="https://github.com/user-attachments/assets/428d03b0-8aae-4edc-887b-8cd00c81dad7" />
 
-👥 Customer Segmentation & Regional Analysis
+
+
 
 📷 Dashboard Image
 
